@@ -1,0 +1,19 @@
+---
+title: Category
+permalink: "category/index.html"
+---
+<div class="page-category">
+  {% for category in site.categories %}
+  <li>
+    <h3 class="section-header-category">
+      {{ category | first }}
+    </h3>
+
+    <ul>
+    {% for post in category.last %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+</div>
