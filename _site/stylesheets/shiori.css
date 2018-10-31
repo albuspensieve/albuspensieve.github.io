@@ -6323,3 +6323,6 @@ h3 {
   color: #f5871f; }
 
 /* Literal.Number.Integer.Long */
+body {
+  margin: 0;
+  background: url("../img/hip-square.png") repeat; }
