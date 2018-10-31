@@ -5,8 +5,8 @@ permalink: "category/index.html"
 <div class="page-category">
   {% for category in site.categories %}
   <li>
-    <h3 class="section-header-category">
-      {{ category | first }}
+    <h3 class="section-header-category"><a href = "#{{ category | first }}">
+      {{ category | first }}</a>
     </h3>
 
     <ul>

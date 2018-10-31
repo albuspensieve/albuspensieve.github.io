@@ -5,8 +5,8 @@
     <description></description>
     <link>http://albuspensieve.github.io/</link>
     <atom:link href="http://albuspensieve.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 30 Oct 2018 20:33:43 -0400</pubDate>
-    <lastBuildDate>Tue, 30 Oct 2018 20:33:43 -0400</lastBuildDate>
+    <pubDate>Tue, 30 Oct 2018 21:26:37 -0400</pubDate>
+    <lastBuildDate>Tue, 30 Oct 2018 21:26:37 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -72,8 +72,12 @@
         <link>http://albuspensieve.github.io/sang-life</link>
         <guid isPermaLink="true">http://albuspensieve.github.io/sang-life</guid>
         
+        <category>thought-of-life</category>
         
-        <category>Personal; Life</category>
+        
+        <category>Personal</category>
+        
+        <category>Life</category>
         
       </item>
     
@@ -194,6 +198,8 @@
         <link>http://albuspensieve.github.io/Matisse</link>
         <guid isPermaLink="true">http://albuspensieve.github.io/Matisse</guid>
         
+        <category>exhibition</category>
+        
         
         <category>Art</category>
         
@@ -287,6 +293,8 @@ Mrs. Chase and Child (I’m Going to See Grandma), 1889&lt;/p&gt;
         <pubDate>Mon, 23 Jan 2017 00:00:00 -0500</pubDate>
         <link>http://albuspensieve.github.io/Chase</link>
         <guid isPermaLink="true">http://albuspensieve.github.io/Chase</guid>
+        
+        <category>exhibition</category>
         
         
         <category>Art</category>
@@ -499,6 +507,8 @@ Mrs. Chase and Child (I’m Going to See Grandma), 1889&lt;/p&gt;
         <pubDate>Thu, 11 Jul 2013 00:00:00 -0400</pubDate>
         <link>http://albuspensieve.github.io/alone</link>
         <guid isPermaLink="true">http://albuspensieve.github.io/alone</guid>
+        
+        <category>thought-of-life</category>
         
         
         <category>Personal</category>

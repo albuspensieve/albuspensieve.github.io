@@ -1,6 +1,6 @@
 ---
 title: "写在毕业"
-category: Personal
+categories: Personal
 ---
 
 飞机晚点三个小时，仿佛成都在挽留我一样。

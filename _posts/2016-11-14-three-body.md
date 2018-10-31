@@ -1,6 +1,6 @@
 ---
 title: "《三体全集》读后感"
-category: Book
+categories: Book
 ---
 
 很久没有写读后感了~

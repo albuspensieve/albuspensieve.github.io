@@ -1,12 +1,35 @@
 <!-- Feel free to remove this div. Uses purplecoat: http://ellekasai.github.io/purplecoat.js -->
 <div data-purplecoat="shiori" data-purplecoat-label="sidebar.html">
-  <h3 class="section-header">
+  <h3>
     About
   </h3>
 
-  <p>欢迎来到Albus’ Pensieve —— 邓布利多的冥想盆。此博客于2018年10月30日正式启用，迁移了之前博客<a href="http://albus1993.lofter.com">邓布利多的冥想盆</a>的部分文章。本博客主要记录PhD Life，Art相关，以及一些杂七杂八的『人生感悟』。</p>
+  <p>欢迎进入Albus’ Pensieve —— 邓布利多的冥想盆。此博客于2018年10月30日正式启用，迁移了之前博客<a href="http://albus1993.lofter.com">邓布利多的冥想盆</a>的部分文章。本博客主要记录PhD Life，Art相关，以及一些杂七杂八的『人生感悟』。</p>
 
-  <h3 class = "section-header">
+  <h3>Tag Cloud</h3>
+{% assign tags = site.tags | sort %}
+{% for tag in tags %}
+ <span class="site-tag">
+    <a href="/tag/#{{ tag | first | slugify }}/"
+        style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+            {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
+    </a>
+</span>
+{% endfor %}
+
+<h3>Category Cloud</h3>
+{% assign categories = site.categories | sort %}
+{% for category in categories %}
+ <span class="site-tag">
+    <a href="/category/#{{ category | first | slugify }}/"
+        style="font-size: {{ category | last | size  |  times: 4 | plus: 80  }}%">
+            {{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})
+    </a>
+</span>
+{% endfor %}
+  
+
+  <h3>
     Connect
   </h3>
 
@@ -37,7 +60,6 @@
     RSS
   </h3>
   <a href='https://albuspensieve.github.io/feed.xml' rel='alternate' type='application/atom+xml' class ="navbar-btn btn"> <i class="fa fa-rss fa-fw" style="font-size:20px;"></i> </a>
-  
 
 <!--   <p><a href="https://github.com/ellekasai/shiori" target="_blank" class="btn btn-primary"><i class="fa fa-github fa-lg"></i> View on GitHub &rarr;</a></p> -->
 
