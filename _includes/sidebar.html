@@ -6,6 +6,17 @@
 
   <p>欢迎进入Albus’ Pensieve —— 邓布利多的冥想盆。此博客于2018年10月30日正式启用，迁移了之前博客<a href="http://albus1993.lofter.com">邓布利多的冥想盆</a>的部分文章。本博客主要记录PhD Life，Art相关，以及一些杂七杂八的『人生感悟』。</p>
 
+<h3>Category Cloud</h3>
+{% assign categories = site.categories | sort %}
+{% for category in categories %}
+ <span class="site-category">
+    <a href="/category/#{{ category | first | slugify }}/"
+        style="font-size: {{ category | last | size  |  times: 4 | plus: 80  }}%">
+            {{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})
+    </a>
+</span>
+{% endfor %}
+
   <h3>Tag Cloud</h3>
 {% assign tags = site.tags | sort %}
 {% for tag in tags %}
@@ -17,16 +28,7 @@
 </span>
 {% endfor %}
 
-<h3>Category Cloud</h3>
-{% assign categories = site.categories | sort %}
-{% for category in categories %}
- <span class="site-category">
-    <a href="/category/#{{ category | first | slugify }}/"
-        style="font-size: {{ category | last | size  |  times: 4 | plus: 80  }}%">
-            {{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})
-    </a>
-</span>
-{% endfor %}
+
   
 
   <h3>
