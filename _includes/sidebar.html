@@ -20,7 +20,7 @@
 <h3>Category Cloud</h3>
 {% assign categories = site.categories | sort %}
 {% for category in categories %}
- <span class="site-tag">
+ <span class="site-category">
     <a href="/category/#{{ category | first | slugify }}/"
         style="font-size: {{ category | last | size  |  times: 4 | plus: 80  }}%">
             {{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})
