@@ -40,5 +40,6 @@ markdown: kramdown
 kramdown:
   # parse markdown inside block-level HTML tag
   input: GFM
+  html_to_native: true
   parse_block_html: true
   parse_inline_html: true
