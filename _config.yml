@@ -35,6 +35,8 @@ disqus:
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
     shortname: albus
 
+markdown: kramdown
+
 kramdown:
   # parse markdown inside block-level HTML tag
   parse_block_html: true
