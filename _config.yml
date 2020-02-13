@@ -40,3 +40,4 @@ markdown: kramdown
 kramdown:
   # parse markdown inside block-level HTML tag
   parse_block_html: true
+  parse_inline_html: true
