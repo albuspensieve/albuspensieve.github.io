@@ -7,6 +7,7 @@ title: "Albus' Pensieve"
 
 plugins:
   - jemoji
+  - jekyll-seo-tag
 exclude:
   - "README.md"
   - "CHANGELOG.md"
