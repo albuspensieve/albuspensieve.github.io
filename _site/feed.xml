@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Albus&#39; Pensieve</title>
+    <title>Albus&apos; Pensieve</title>
     <description></description>
-    <link>http://albuspensieve.github.io/</link>
-    <atom:link href="http://albuspensieve.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 18 Apr 2021 09:51:00 -0400</pubDate>
-    <lastBuildDate>Sun, 18 Apr 2021 09:51:00 -0400</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <link>http://albuspensieve.github.io/albuspensieve.github.io/</link>
+    <atom:link href="http://albuspensieve.github.io/albuspensieve.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 18 Apr 2021 11:41:53 -0400</pubDate>
+    <lastBuildDate>Sun, 18 Apr 2021 11:41:53 -0400</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
     
       <item>
         <title>Albus的Weekly Digest (2021.4.12-4.18)</title>
         <description>&lt;p&gt;波士顿牌过山车，为喘了一大口气的地球惊叹，还有那些被喜悦暴击的时刻。&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;生活：波士顿牌过山车&lt;/h2&gt;
+&lt;h2 id=&quot;生活波士顿牌过山车&quot;&gt;生活：波士顿牌过山车&lt;/h2&gt;
 &lt;p&gt;波士顿过山车一般的天气真是名不虚传。曾经看过这样一个图：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/weekly2021/bostonmeme.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/albuspensieve.github.io/img/weekly2021/bostonmeme.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;这样的天气这周就发生啦～周三还在附近散步的时候看到了一棵特别大大大大大大大的垂樱，真是令人惊叹的美。结果周五下雪了❄️不知道那棵樱花怎么样了，雪中的她肯定更美，但是她是不是觉得好冷啊。&lt;/p&gt;
 
 &lt;video id=&quot;video&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
-  &lt;source id=&quot;mp4&quot; src=&quot;/img/weekly2021/bostonrollercoaster.mp4#t=1&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source id=&quot;mp4&quot; src=&quot;/albuspensieve.github.io/img/weekly2021/bostonrollercoaster.mp4#t=1&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;音乐：春よ、来た&lt;/h2&gt;
+&lt;h2 id=&quot;音乐春よ来た&quot;&gt;音乐：春よ、来た&lt;/h2&gt;
 &lt;p&gt;这周听Spotify的春のうた歌单听到了这首歌，太好听了！这才认识了这位十分有名的日本歌手松任谷由実，而且现在还在活跃呢！听了她一些专辑，有很多很喜欢的作品！这首歌名翻译过来大概是“春天，来吧”的意思，是一首有些惆怅但又有些希望的歌。&lt;/p&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
@@ -34,9 +34,9 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1CZ4y1P7Ha?share_source=copy_web&quot;&gt;看不了youtube的朋友们可以移步B站&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;纪录片&lt;/h2&gt;
+&lt;h2 id=&quot;纪录片&quot;&gt;纪录片&lt;/h2&gt;
 
-&lt;h3 id=&quot;httpsmoviedoubancomsubject35417202&quot;&gt;&lt;a href=&quot;https://movie.douban.com/subject/35417202/&quot;&gt;地球改变之年&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;地球改变之年&quot;&gt;&lt;a href=&quot;https://movie.douban.com/subject/35417202/&quot;&gt;地球改变之年&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;2020年，新冠疫情席卷全球，无数熙熙攘攘的大城市陷入沉寂。在人类怨声载道的同时，大自然却终于得到了一丝喘息的机会，而这个纪录片就告诉了我们，大自然在短短一年的喘息中创造了什么奇迹。&lt;/p&gt;
 
@@ -44,18 +44,18 @@
 
 &lt;p&gt;片子最后引导大家反思人类和大自然coexsit的方式，其中提到了印度农民和大象长时间对作物的互相争斗的案例：通过在森林附近为大象种了一片他们的专属粮食基地，长时间的争斗终于得到了和平的解决。还提到了也许在疫情结束之后可以采取诸如夏天某段时间关闭海滩，控制游客数量等等措施来谋求和自然的和谐共处。这些做法固然是积极的，但是看完这个片子我还是觉得，人类的存在本身可能对动物就是很大的伤害，无论我们做什么弥补，可能也很难消除我们对他们的影响，而且人类的欲望真是非常可怕，又非常短视，这些措施真的可以长期坚持吗？我很怀疑。感觉看完这部片子我当下一大想法是，lock-down挺好的，应该多整点lol不过这肯定不现实啦，也许以后可以控制自己的旅行次数，尤其是去和动物有比较近距离接触的地方。Leave them alone可能是最好的做法。&lt;/p&gt;
 
-&lt;h3 id=&quot;httpsmoviedoubancomsubject35377036&quot;&gt;&lt;a href=&quot;https://movie.douban.com/subject/35377036/&quot;&gt;渔业阴谋&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;渔业阴谋&quot;&gt;&lt;a href=&quot;https://movie.douban.com/subject/35377036/&quot;&gt;渔业阴谋&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;看完这部片子我整个人就是头脑爆炸的状态，感觉自己背着很多命债🤯之前完全没有想到渔业对海洋生态会造成这么大的破坏，对至今因为贫困还必须得靠捕鱼为生的人们带来多大的痛苦，以及渔业内部有那么多的黑暗。虽然后来看到网上对这部片子有些争议，有些fact有些questionable，以及他的message——号召大家少吃鱼也被很多人批评，不过我觉得总体上还是蛮引入思考的。这里我想插一句，我看到有些人批评“那有些人靠这个为生怎么能让他们少吃鱼呢？”，这个问题是legit的问题，但是我觉得这部片子的message不是带给那些人的，而是面向的是有选择的人。看完之后我也在考虑是不是可以少吃一些，尤其是可以减少由于自己嘴巴馋而吃东西的行为。我的生活早已不需要克服饥饿，也已足够丰富，也许可以多克制一些自己的欲望。&lt;/p&gt;
 
-&lt;h3 id=&quot;httpsmoviedoubancomsubject35228393&quot;&gt;&lt;a href=&quot;https://movie.douban.com/subject/35228393/&quot;&gt;早餐中国第三季&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;早餐中国第三季&quot;&gt;&lt;a href=&quot;https://movie.douban.com/subject/35228393/&quot;&gt;早餐中国第三季&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;以大约每天早餐时间一至两集的速度看完啦～虽然是美食节目，也让我流了不少口水，但是最喜欢的部分还是这个片子很注重对普通老百姓生活的捕捉。做餐饮业是很辛苦的，尤其做早餐真是起早贪黑，片中的老板们有的半夜两三点就起了，最晚的也四五点就起了，进货、准备、制作、开张，年复一年日复一日。他们大多都有着朴实的目标，让家里条件好点，供孩子上学，给孩子带孙子孙女，传承老一辈的产业，有些也有做大的想法，希望未来能开个连锁之类。很难说他们这份工作是享受的，毕竟那么辛苦，也很耗体力，很多老板因此落下了很多病，但是不管是出于无奈，还是出于习惯，还是出于就是想坚持，或者出于根本没有思考过的原因，就这样一天天的坚持下来了。这部片子没说什么大道理，但是从这些最朴实人的生活里，感觉看到了人生的真谛。&lt;/p&gt;
 
-&lt;h2 id=&quot;fm20&quot;&gt;播客：《故事FM：那些被喜悦暴击的时刻2.0》&lt;/h2&gt;
+&lt;h2 id=&quot;播客故事fm那些被喜悦暴击的时刻20&quot;&gt;播客：《故事FM：那些被喜悦暴击的时刻2.0》&lt;/h2&gt;
 &lt;p&gt;周一的早上听了这期播客，一期让人忍不住嘴角上扬的播客！尤其是第一个故事，发生在泉州的一个爱情故事，我的天呐也太甜了哈哈哈～两位主人公太可爱了～如果你有些不开心，就打开这个节目听听吧～世界上还是有很多美好开心的事情的！&lt;/p&gt;
 
 &lt;iframe src=&quot;https://www.listennotes.com/embedded/e/b510759a4f8d4bbd864d706a2dd92391/&quot; height=&quot;100%&quot; width=&quot;100%&quot; style=&quot;width: 1px; min-width: 100%;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://podcasts.apple.com/us/podcast/e489-%E9%82%A3%E4%BA%9B%E8%A2%AB%E5%96%9C%E6%82%A6%E6%9A%B4%E5%87%BB%E7%9A%84%E6%97%B6%E5%88%BB-2-0/id1256399960?i=1000516769643&quot;&gt;苹果播客收听链接&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;https://podcasts.apple.com/us/podcast/e489-%E9%82%A3%E4%BA%9B%E8%A2%AB%E5%96%9C%E6%82%A6%E6%9A%B4%E5%87%BB%E7%9A%84%E6%97%B6%E5%88%BB-2-0/id1256399960?i=1000516769643&quot;&gt;苹果播客收听链接&lt;/a&gt;
 &lt;a href=&quot;https://www.ximalaya.com/toutiao/7878702/404847013&quot;&gt;喜马拉雅收听链接&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;quote&quot;&gt;Quote：&lt;/h2&gt;
@@ -65,13 +65,13 @@
 &lt;p&gt;这周的weekly digest就到这里啦～大家这周都看了/听了/学了什么好玩的东西呢？在评论里留言一起交流吧～&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Apr 2021 00:00:00 -0400</pubDate>
-        <link>http://albuspensieve.github.io/weekly12</link>
-        <guid isPermaLink="true">http://albuspensieve.github.io/weekly12</guid>
+        <link>http://albuspensieve.github.io/albuspensieve.github.io/weekly12</link>
+        <guid isPermaLink="true">http://albuspensieve.github.io/albuspensieve.github.io/weekly12</guid>
         
         <category>weeklyDigest</category>
         
         
-        <category>life</category>
+        <category>Life</category>
         
       </item>
     
@@ -79,18 +79,18 @@
         <title>Albus的Weekly Digest (2021.4.4-4.11)</title>
         <description>&lt;p&gt;春日风景，亚裔美国人，和为什么self improvement可能会害了你～&lt;/p&gt;
 
-&lt;h2 id=&quot;sakura&quot;&gt;生活：Sakura&lt;/h2&gt;
-&lt;p&gt;周末新室友带我出门放了个风，本来去一个水库边上看樱花但是樱花完全还没有开，后来我们去了Boston College看到了樱花！天空湛蓝，微风拂面，阳光明媚，真的太美啦～转圈圈～&lt;br /&gt;
-&lt;img src=&quot;/img/weekly2021/sakura.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;生活sakura&quot;&gt;生活：Sakura&lt;/h2&gt;
+&lt;p&gt;周末新室友带我出门放了个风，本来去一个水库边上看樱花但是樱花完全还没有开，后来我们去了Boston College看到了樱花！天空湛蓝，微风拂面，阳光明媚，真的太美啦～转圈圈～
+&lt;img src=&quot;/albuspensieve.github.io/img/weekly2021/sakura.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;httpsbookdoubancomsubject1813841&quot;&gt;书：&lt;a href=&quot;https://book.douban.com/subject/1813841/&quot;&gt;《枪炮，病菌与钢铁》&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;书枪炮病菌与钢铁&quot;&gt;书：&lt;a href=&quot;https://book.douban.com/subject/1813841/&quot;&gt;《枪炮，病菌与钢铁》&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;和小伙伴一起以比较轻松、闲适、克制的速度把这本也是mark了很久的书看完了～这本书想要解决的问题就是，为什么有的民族“发展程度”比另一些民族高？作者坚决反对对这个问题常有的种族主义倾向回答，而是认为由于基础环境条件不同，不同民族开始农业的时间不同，接触的病菌不同，继而技术发展速度不同，拥有语言文字和复杂社会结构的时间也不同，就这样最初的差异不断放大，世界演变成了我们现在这个样子。为了回答这个问题，作者先从人类是如何从非洲走到各个大陆的开始说起（第一部分），讨论了各大陆粮食生产的出现和传播（第二部分），再讨论了从粮食生产导致的病菌和技术的不同（第三部分）。最后用了五章（第四部分）讨论了一些具体案例。&lt;/p&gt;
 
 &lt;p&gt;这本书总体感觉还是不错的（虽然最开心的是每周的讨论时间嘿嘿嘿），虽然没有非常mind-blowing（大概是因为之前看过一些别的书借鉴了这本书的观点，所以比较熟悉），但还是有一些新知识的获得。这本书的细节是比较丰富的，里面有涉及考古学，语言学等等知识，案例也很多，一方面的确为作者的观点提供了很强的back-up，但是另一方面有时候觉得有些“啰嗦”，尤其是第五章举各大洲的例子，虽然各大洲有所不同，但是背后的核心观点已经在前几章讲过很多遍了所以会觉得有些无聊……不过相比于现在一个超简单的观点就写一大本书的nonfiction畅销书还是要好得多，至少这些例子和证据是比较充分的。&lt;/p&gt;
 
 &lt;p&gt;这本书后来还拍了配套纪录片，里面会有一些实地走访的影像资料，感觉还蛮有意思的，打算有时间看看～&lt;/p&gt;
 
-&lt;h2 id=&quot;robert-schumann-symphony-no1-spring&quot;&gt;音乐：Robert Schumann, Symphony No.1, “Spring”&lt;/h2&gt;
+&lt;h2 id=&quot;音乐robert-schumann-symphony-no1-spring&quot;&gt;音乐：Robert Schumann, Symphony No.1, “Spring”&lt;/h2&gt;
 &lt;p&gt;春天终于来啦，这个月开始在频道里分享一些春天的曲目，在找资料时遇到了Schumann的这首作品。非常high-spirited的一首作品，是一首听着想在房间里转圈圈的作品～&lt;/p&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
@@ -100,7 +100,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1Nh411o7su?from=search&amp;amp;seid=3184781658972529735&quot;&gt;看不了youtube的朋友们可以移步B站&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;asian-americanshttpsmoviedoubancomsubject35049745&quot;&gt;纪录片：&lt;a href=&quot;https://movie.douban.com/subject/35049745/&quot;&gt;Asian Americans&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;纪录片asian-americans&quot;&gt;纪录片：&lt;a href=&quot;https://movie.douban.com/subject/35049745/&quot;&gt;Asian Americans&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;强推这部纪录片～最近针对美国亚裔的hate crime案件变多开始引起大家的重视，看到网友推荐了这部PBS在2020年5月（美国的亚太裔传统月）推出的五集纪录片。这部纪录片给我补了很多历史课，之前听说过的有排华法案，种族隔离，二战的日裔美国人集中营，没听过的就太多了，下面列有限的印象深刻的几条：&lt;/p&gt;
 
 &lt;ol&gt;
@@ -124,7 +124,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://movie.douban.com/subject/1292371/&quot;&gt;四月物语&lt;/a&gt;：对少女情绪的捕捉很细腻～樱花雨真的太美啦，喜欢松隆子～有机会一定要在四月看这部电影哦～&lt;/p&gt;
 
-&lt;h2 id=&quot;why-self-improvement-is-ruining-your-life&quot;&gt;视频：Why Self Improvement is Ruining Your Life&lt;/h2&gt;
+&lt;h2 id=&quot;视频why-self-improvement-is-ruining-your-life&quot;&gt;视频：Why Self Improvement is Ruining Your Life&lt;/h2&gt;
 &lt;p&gt;非常喜欢这个视频！！！最近越来越觉得，self improvement表面看起来是一件很积极的事情，但是可能背后隐藏的是自己的害怕，可能害怕自己能力不够，害怕挑战，害怕新的生活，害怕自己不能“成功”等等等等。而把self improvment作为了解决这些问题的手段，希望追求productivity可以fix myself事实上是不行的，因为improvement和productivy永无止境，在你达到了一个目标之后总是会有另一个目标，而这样的不断追求没有办法fix myself～&lt;/p&gt;
 
 &lt;p&gt;另外，productivity也会成为逃避的一种手段，这其实就是“工作狂”的状况。我是相信一个好的生活不应该只有工作的，深刻的人际关系非常重要。追求productivity有时候是一个上瘾的过程，它可能成为我们逃避生活中其他问题的一种手段，而且可能也会让我们忽视掉生命中并不能赚钱的，但可能是最美好的瞬间。&lt;/p&gt;
@@ -145,13 +145,13 @@
 &lt;p&gt;这周的weekly digest就到这里啦～大家这周都看了/听了/学了什么好玩的东西呢？在评论里留言一起交流吧～&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Apr 2021 00:00:00 -0400</pubDate>
-        <link>http://albuspensieve.github.io/weekly11</link>
-        <guid isPermaLink="true">http://albuspensieve.github.io/weekly11</guid>
+        <link>http://albuspensieve.github.io/albuspensieve.github.io/weekly11</link>
+        <guid isPermaLink="true">http://albuspensieve.github.io/albuspensieve.github.io/weekly11</guid>
         
         <category>weeklyDigest</category>
         
         
-        <category>life</category>
+        <category>Life</category>
         
       </item>
     
@@ -159,13 +159,13 @@
         <title>Albus的Weekly Digest (2021.3.29-4.3)</title>
         <description>&lt;p&gt;一人暮らし👻&lt;/p&gt;
 
-&lt;h2 id=&quot;lemon-bar&quot;&gt;生活：一人暮らし＆Lemon Bar&lt;/h2&gt;
+&lt;h2 id=&quot;生活一人暮らしlemon-bar&quot;&gt;生活：一人暮らし＆Lemon Bar&lt;/h2&gt;
 &lt;p&gt;这周短暂独居，很久没有体验过啦。家里目前有点大😂还蛮不习惯的，但是很自由哈哈哈～另外买了个新桌子，把房间稍微重新布置了一下，换了个环境换了个心情！&lt;/p&gt;
 
-&lt;p&gt;另外这周第一次做了Lemon Bar！金黄的色泽，酸酸甜甜的口感真是太好啦，感觉带来了夏天的气息（虽然春天都还没完全来😂！就是糖真的好多，名副其实的能量炸弹～～&lt;br /&gt;
-&lt;img src=&quot;/img/weekly2021/lemonbar.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;另外这周第一次做了Lemon Bar！金黄的色泽，酸酸甜甜的口感真是太好啦，感觉带来了夏天的气息（虽然春天都还没完全来😂！就是糖真的好多，名副其实的能量炸弹～～
+&lt;img src=&quot;/albuspensieve.github.io/img/weekly2021/lemonbar.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;书：《你一生的故事》&lt;/h2&gt;
+&lt;h2 id=&quot;书你一生的故事&quot;&gt;书：《你一生的故事》&lt;/h2&gt;
 &lt;p&gt;应该是看《降临》的时候第一次知道了特德·姜，但那也是好几年前了。那部电影我挺喜欢的，虽然印象最深的点是七肢桶的语言是Mathematica画出来的（我这人点也是太奇怪了吧哈哈哈哈。后来又听过很多播客讲起他的作品，印象最深的是一期《不丧》（在此表白好小气和乔老师，“带货”水平真的一流哈哈哈～）说起觉得他的作品是那种“哲学科幻”，关键不是科学技术，而是千古以来的哲学问题，一下就吸引了我的注意力。由于这本书是短篇小说集，下面稍微写写自己印象比较深的几篇吧～&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;《你一生的故事》&lt;/strong&gt;&lt;/p&gt;
@@ -212,7 +212,7 @@
 
 &lt;p&gt;总结一下，特德·姜的“哲学科幻”名不虚传哈哈哈，非常喜欢。近些年越发觉得，虽然科技进步，世事不断变换，但是人类一直在问的很多问题并没有改变，好像也并没有获得太多新的答案。技术的进步使得回答这些问题看似有了新的可能，但也许也没有。于我个人而言，从这种角度思考技术非常有意思，可以看到人类的局限性，也许可以使我们humble一点。&lt;/p&gt;
 
-&lt;h2 id=&quot;pdq-bach&quot;&gt;音乐：P.D.Q. Bach&lt;/h2&gt;
+&lt;h2 id=&quot;音乐pdq-bach&quot;&gt;音乐：P.D.Q. Bach&lt;/h2&gt;
 &lt;p&gt;这周跨了个愚人节，听了一些P.D.Q. Bach的音乐。P.D.Q. Bach是美国作曲家Peter Schickele创造的一个虚拟人物，人设是Bach二十个儿子里的第二十一个🤪个人其实还是蛮喜欢喜剧和古典音乐结合的，这里还得感谢Ching兄的介绍哈哈，有很多人是对音乐有非常好的掌握又有幽默感实在是高～分享一首P.D.Q. Bach的“Unbegun” Symphony~&lt;/p&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
@@ -222,26 +222,30 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV14c411h7tw?p=3&quot;&gt;看不了youtube的朋友们可以移步B站&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;httpsmoviedoubancomsubject34937935&quot;&gt;纪录片：&lt;a href=&quot;https://movie.douban.com/subject/34937935/&quot;&gt;《杀马特我爱你》&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;纪录片杀马特我爱你&quot;&gt;纪录片：&lt;a href=&quot;https://movie.douban.com/subject/34937935/&quot;&gt;《杀马特我爱你》&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;在看完《棉花》之后感觉对于劳动人民题材产生了非常强的兴趣，于是终于把这部去年很出名的纪录片看了。还是蛮震撼的，之前对于杀马特基本没有了解，只记得小时候好像网上流行过一段时间(?)。看了这部纪录片才知道，杀马特的创始人是95年生的，大多数都是我的同龄人，大多数都是从农村到城市打工的农民工，而且是农民工二代。影片中有很多采访对象都是十四岁左右的年纪就出来打工了（！之前根本不知道现在还有童工，而且这么小！唉），而在工厂的工作真的就和卓别林的摩登时代一样非常机械，而且管的非常严，连去洗手间都要报备，另外还有人骗钱，还有黑心老板克扣工资等等……在这种环境下他们找到了杀马特这个出口，在这里他们可以表达自己的个性，可以释放生活的压力，也可以慰藉孤身一人在城市的孤独，听着他们的讲述真是屡次泪目😭印象中杀马特好像也是突然就消失了，看了这个片才知道当时有抵制运动，有很多人会故意抹黑杀马特，而且深入内部解散他们的群组，他们的空间不断不断被挤压，直至基本消失，而且还被全社会鄙视😞😞😞&lt;/p&gt;
 
 &lt;p&gt;比较喜欢这个片子的点是让杀马特参与者说出自己的故事，而且有很多片段都是杀马特们自己拍的，感觉这点有点像《故事FM》，就是让每个讲述者说出自己的人生故事而已，都是切身的体会，真实的经验，没有那些宏大的概念，什么城乡关系啊，资本主义啊，异化啊，这些有时候只是完全没有亲身经验的人的一套话语系统吧。可能是最近对于那些空洞的讨论感觉有些厌烦吧，当事人的叙述要实在的多，也打动人的多。感觉自己的盲点太多太大了，打算再多看一些类似的题材。&lt;/p&gt;
 
-&lt;p&gt;最后分享一篇导演李一凡的访谈和他的一席演讲，很尊敬他的谦虚，耐心和温柔：&lt;br /&gt;
-1. &lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzI2ODcxMDYyMw==&amp;amp;mid=2247483686&amp;amp;idx=1&amp;amp;sn=8070ab87cb6883e590ee004e8666905a&amp;amp;chksm=eaea2696dd9daf8005d64a3d950b2fbb07001e7a45943ed31805e34d260b91df66d0b6537747&amp;amp;dt_platform=douban_broadcast&amp;amp;dt_dapp=1#rd&quot;&gt;李一凡访谈：杀马特我爱你&lt;/a&gt;&lt;br /&gt;
-2. &lt;a href=&quot;https://www.bilibili.com/video/BV1uy4y1k7t9?share_source=copy_web&quot;&gt;李一凡一席演讲&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最后分享一篇导演李一凡的访谈和他的一席演讲，很尊敬他的谦虚，耐心和温柔：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzI2ODcxMDYyMw==&amp;amp;mid=2247483686&amp;amp;idx=1&amp;amp;sn=8070ab87cb6883e590ee004e8666905a&amp;amp;chksm=eaea2696dd9daf8005d64a3d950b2fbb07001e7a45943ed31805e34d260b91df66d0b6537747&amp;amp;dt_platform=douban_broadcast&amp;amp;dt_dapp=1#rd&quot;&gt;李一凡访谈：杀马特我爱你&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1uy4y1k7t9?share_source=copy_web&quot;&gt;李一凡一席演讲&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;播客：《日谈公园：春暖花开日，搬家去露营！》&lt;/h2&gt;
+&lt;h2 id=&quot;播客日谈公园春暖花开日搬家去露营&quot;&gt;播客：《日谈公园：春暖花开日，搬家去露营！》&lt;/h2&gt;
 &lt;p&gt;其实这期不是说质量多高或者获得了多少知识，只是因为嘉宾里有飞鱼秀的小飞！太久没有听到他的声音了太开心了！！！这期说的是“奢华露营”😂，大概就是怎么让人舒服的露营，虽然我是对露营完全一窍不通，但是也听得津津有味，大概是小飞的魅力吧哈哈哈～里面还提到这种形式其实还和殖民历史有关😱小飞是那种很喜欢玩，但是玩得很深的人，飞鱼秀结束后他做的《飞买不可》这个节目也超级棒，去了世界各地各种vintage store～听这期节目想到了飞鱼秀陪伴的日子，愉悦的忧伤～&lt;/p&gt;
 
 &lt;iframe src=&quot;https://www.listennotes.com/embedded/e/aac90a73549a4903b5ff6c8045331f8a/&quot; height=&quot;100%&quot; width=&quot;100%&quot; style=&quot;width: 1px; min-width: 100%;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://podcasts.apple.com/us/podcast/%E6%97%A5%E8%B0%88%E5%85%AC%E5%9B%AD/id1166949390?i=1000514782918&quot;&gt;苹果播客收听链接&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;https://podcasts.apple.com/us/podcast/%E6%97%A5%E8%B0%88%E5%85%AC%E5%9B%AD/id1166949390?i=1000514782918&quot;&gt;苹果播客收听链接&lt;/a&gt;
 &lt;a href=&quot;http://m.ximalaya.com/sound/400012342&quot;&gt;喜马拉雅收听链接&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;其他播客&lt;/strong&gt;：&lt;br /&gt;
-1. &lt;a href=&quot;https://www.listennotes.com/podcasts/梁文道八分/271-消费者抵制品牌的边界在哪里-QLomyJp38iR/&quot;&gt;《八分：消费者抵制品牌的边界在哪里？》&lt;/a&gt;：这期道长带我们回顾了消费者抵制品牌和各种NGO是怎么出现的历史，非常educational，学到很多～&lt;br /&gt;
-2. &lt;a href=&quot;https://shop.vistopia.com.cn/article?article_id=3XtTX&amp;amp;_t=0.7797092560713137&quot;&gt;《衰仔日记：我的初恋，是一场成功的失败》&lt;/a&gt;：“湾仔之狼”马家辉老师出播客啦！这是我近期的快乐源泉，听到辉哥的声音就特别想笑～而且笑声之后还有点人生道理～&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其他播客&lt;/strong&gt;：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.listennotes.com/podcasts/梁文道八分/271-消费者抵制品牌的边界在哪里-QLomyJp38iR/&quot;&gt;《八分：消费者抵制品牌的边界在哪里？》&lt;/a&gt;：这期道长带我们回顾了消费者抵制品牌和各种NGO是怎么出现的历史，非常educational，学到很多～&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shop.vistopia.com.cn/article?article_id=3XtTX&amp;amp;_t=0.7797092560713137&quot;&gt;《衰仔日记：我的初恋，是一场成功的失败》&lt;/a&gt;：“湾仔之狼”马家辉老师出播客啦！这是我近期的快乐源泉，听到辉哥的声音就特别想笑～而且笑声之后还有点人生道理～&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h2 id=&quot;quote&quot;&gt;Quote&lt;/h2&gt;
 &lt;p&gt;未来已经到来，只是尚未平均分布。（威廉·吉布森）&lt;/p&gt;
@@ -250,13 +254,13 @@
 &lt;p&gt;这周的weekly digest就到这里啦～大家这周都看了/听了/学了什么好玩的东西呢？在评论里留言一起交流吧～&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Apr 2021 00:00:00 -0400</pubDate>
-        <link>http://albuspensieve.github.io/weekly10</link>
-        <guid isPermaLink="true">http://albuspensieve.github.io/weekly10</guid>
+        <link>http://albuspensieve.github.io/albuspensieve.github.io/weekly10</link>
+        <guid isPermaLink="true">http://albuspensieve.github.io/albuspensieve.github.io/weekly10</guid>
         
         <category>weeklyDigest</category>
         
         
-        <category>life</category>
+        <category>Life</category>
         
       </item>
     
@@ -264,11 +268,11 @@
         <title>Albus的Weekly Digest (2021.3.22-3.28)</title>
         <description>&lt;p&gt;在不顺的日子里还是要尽力生活呀💪💪💪&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;生活：芦荟宝宝&lt;/h2&gt;
-&lt;p&gt;这周科研不是很顺利，花了很多时间来面对不是很好的消息和调整心态，以至于琴都没有怎么练，书也没有怎么看，所以分享的东西也不多了😳不过周五下午散步去了隔壁城，天气晴朗，春风拂面，还终于看到了今年的第一朵花！心情好了很多～在花店领了一只芦荟宝宝回家，希望可以照顾好他～～&lt;br /&gt;
-&lt;img src=&quot;/img/weekly2021/march.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;生活芦荟宝宝&quot;&gt;生活：芦荟宝宝&lt;/h2&gt;
+&lt;p&gt;这周科研不是很顺利，花了很多时间来面对不是很好的消息和调整心态，以至于琴都没有怎么练，书也没有怎么看，所以分享的东西也不多了😳不过周五下午散步去了隔壁城，天气晴朗，春风拂面，还终于看到了今年的第一朵花！心情好了很多～在花店领了一只芦荟宝宝回家，希望可以照顾好他～～
+&lt;img src=&quot;/albuspensieve.github.io/img/weekly2021/march.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;音乐：女性作曲家系列完结&lt;/h2&gt;
+&lt;h2 id=&quot;音乐女性作曲家系列完结&quot;&gt;音乐：女性作曲家系列完结&lt;/h2&gt;
 &lt;p&gt;在古典音乐频道里分享的女性作曲家系列完结啦～这一回分享真的是涨了非常多的知识，在分享之前，这个list里认识的作曲家只有四位……听到了很多新的作品，也了解了不同时代女性作曲家们的故事和她们面临的挑战，感觉非常inspiring！&lt;/p&gt;
 
 &lt;p&gt;这个系列的分享可以在channel的substack里看到：&lt;/p&gt;
@@ -279,17 +283,17 @@
 
 &lt;p&gt;&lt;a href=&quot;https://classicalmusictele.substack.com/p/3&quot;&gt;女性作曲家系列(3)&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;httpsmoviedoubancomsubject4195650&quot;&gt;纪录片：&lt;a href=&quot;https://movie.douban.com/subject/4195650/&quot;&gt;《棉花》&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;纪录片棉花&quot;&gt;纪录片：&lt;a href=&quot;https://movie.douban.com/subject/4195650/&quot;&gt;《棉花》&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;这部纪录片拍摄记录了边城棉田到城市加工厂，再到国际交易中心，无数普通人围绕棉花的人生，有棉农、短期采棉工、纺织女工、中间商等等。看得人五味杂陈，觉得自己太幸运太幸运以至于非常内疚，觉得我生活中遇到的一些小挫折真的完全不值一提，觉得我的懒惰简直就是暴殄天物。里面印象最深的是从河南去往新疆采摘棉花的短期采棉工，在三天两夜的绿皮火车上唱的那一曲《谁说女子不如男》🙏🙏🙏&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV13W411K7My?p=1&quot;&gt;观看链接&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;播客：《【随机波动045】今天我们如何教育男孩？性教育也是性别平等教育》&lt;/h2&gt;
+&lt;h2 id=&quot;播客随机波动045今天我们如何教育男孩性教育也是性别平等教育&quot;&gt;播客：《【随机波动045】今天我们如何教育男孩？性教育也是性别平等教育》&lt;/h2&gt;
 &lt;iframe src=&quot;https://www.listennotes.com/embedded/e/2567365016344f2fbdd68b76ff95cbd9/&quot; height=&quot;100%&quot; width=&quot;100%&quot; style=&quot;width: 1px; min-width: 100%;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;这期播客请了北京师范大学儿童性教育课题组的负责人刘文利教授，讨论了希望国内的性教育现状，以及“阳刚之气”、儿童欺凌、性别平等观念缺失等等话题。节目中刘老师提到了非常多对我来说很新的观点，尤其是她的“全面性教育”观念，不仅仅是学习性知识，更是教授孩子如何尊重他人，如何关爱他人。另外还提到了儿童性教育不只是对儿童而已，更是对社会的教育，从需要教授这些知识的老师，到孩子们的家长，都需要挑战自己～&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;视频：《十字军东征简史：用一节课的时间，看懂200年宗教战争到底为何而发动》&lt;/h2&gt;
+&lt;h2 id=&quot;视频十字军东征简史用一节课的时间看懂200年宗教战争到底为何而发动&quot;&gt;视频：《十字军东征简史：用一节课的时间，看懂200年宗教战争到底为何而发动》&lt;/h2&gt;
 &lt;p&gt;推荐这个博主的最新视频，极简十字军东征史！真的是下了很多功夫很用心的视频，对我这个历史盲真是太友好了😂这个博主还有三教极简史和哈利波特梳理，也非常推荐！&lt;/p&gt;
 &lt;div class=&quot;embed-container&quot;&gt;
   &lt;iframe src=&quot;https://www.youtube.com/embed/atrb3BpX0zs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
@@ -298,14 +302,14 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1qi4y1K7GY&quot;&gt;B站观看链接&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;番剧：《天竺鼠车车》和《动物狂想曲第二季》&lt;/h2&gt;
+&lt;h2 id=&quot;番剧天竺鼠车车和动物狂想曲第二季&quot;&gt;番剧：《天竺鼠车车》和《动物狂想曲第二季》&lt;/h2&gt;
 &lt;p&gt;终于把&lt;a href=&quot;https://movie.douban.com/subject/35314507/&quot;&gt;《天竺鼠车车》&lt;/a&gt;看啦～连着一起看比较爽毕竟一集才3分钟不到😂是羊毛毡做的定格动画，想到了当年自己还戳羊毛毡的日子哈哈哈～非常可爱脑洞很大，很适合工作劳累了一天放松一下心情～&lt;/p&gt;
 
 &lt;p&gt;这周&lt;a href=&quot;https://movie.douban.com/subject/34937800/&quot;&gt;《动物狂想曲第二季》&lt;/a&gt;也完结了～其实不是非常get到这一季，感觉非常多的地方都没有看懂……这个世界观的设定太过于复杂和艰难了，有一种坑要填不上的感觉……但是还是感谢它陪我吃了十二顿饭（虽然有几集看着有点吃不下饭😂&lt;/p&gt;
 
 &lt;h2 id=&quot;quote&quot;&gt;Quote&lt;/h2&gt;
-&lt;p&gt;Fear knocked on the door.&lt;br /&gt;
-Courage opened the door.&lt;br /&gt;
+&lt;p&gt;Fear knocked on the door.
+Courage opened the door.
 And there was nobody there!&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -313,13 +317,13 @@ And there was nobody there!&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 27 Mar 2021 00:00:00 -0400</pubDate>
-        <link>http://albuspensieve.github.io/weekly9</link>
-        <guid isPermaLink="true">http://albuspensieve.github.io/weekly9</guid>
+        <link>http://albuspensieve.github.io/albuspensieve.github.io/weekly9</link>
+        <guid isPermaLink="true">http://albuspensieve.github.io/albuspensieve.github.io/weekly9</guid>
         
         <category>weeklyDigest</category>
         
         
-        <category>life</category>
+        <category>Life</category>
         
       </item>
     
@@ -327,7 +331,7 @@ And there was nobody there!&lt;/p&gt;
         <title>Albus的Weekly Digest (2021.3.15-3.21)</title>
         <description>&lt;p&gt;春天来了呢～&lt;/p&gt;
 
-&lt;h2 id=&quot;give-yourself-permission-to-be-creative&quot;&gt;视频：Give yourself permission to be creative（允许自己有创造力）&lt;/h2&gt;
+&lt;h2 id=&quot;视频give-yourself-permission-to-be-creative允许自己有创造力&quot;&gt;视频：Give yourself permission to be creative（允许自己有创造力）&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1Bk4y117Sj?from=search&amp;amp;seid=6517625209246828226&quot;&gt;国内的朋友可移步B站观看&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
@@ -345,10 +349,10 @@ And there was nobody there!&lt;/p&gt;
 
 &lt;p&gt;这大约就是艺术的意义，以及我们为什么应该尽力创造。&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;书：《鳗鱼的旅行》和《爱的艺术》&lt;/h2&gt;
+&lt;h2 id=&quot;书鳗鱼的旅行和爱的艺术&quot;&gt;书：《鳗鱼的旅行》和《爱的艺术》&lt;/h2&gt;
 &lt;p&gt;这周分享两本书，一是《鳗鱼的旅行》，其实是上周日读完的～但当时的weekly已经发表了，于是留在了这周发。另一本是大名鼎鼎的《爱的艺术》～&lt;/p&gt;
 
-&lt;h3 id=&quot;httpsbookdoubancomsubject35167939&quot;&gt;&lt;a href=&quot;https://book.douban.com/subject/35167939/&quot;&gt;《鳗鱼的旅行》&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;鳗鱼的旅行&quot;&gt;&lt;a href=&quot;https://book.douban.com/subject/35167939/&quot;&gt;《鳗鱼的旅行》&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;曾经我发表过一个感悟，大意是写作的难点在于得把脑子里的思维之网变成一个线性的东西。阅读这本书的时候我时常想起这个感悟。当然这本书还是“线性”的，但他仿佛在一个思维之网上漫游，从鳗鱼的故事说到了很多很多的事情。读这本书的时候时常有一种和朋友闲侃的感觉，从一个主题出发，不知不觉走远了，但一般最后的落脚点还是人生的那些，我们也说过很多，而且人类也问了几千年的问题。&lt;/p&gt;
 
 &lt;p&gt;这本书包含的内容很多，首先是第一次知道了关于鳗鱼的很多事情。之前，我对鳗鱼的印象只有三点，鳗鱼饭，鳗鱼好像快灭绝了而且我们吃的全是野生的，以及游戏Gris里追着“我“跑的那个吓人的生物。没有想到他们是那么神秘的动物，神秘到即使在人类已经可以登上月球之后这么这么多年，我们都不能完全确定他们是怎么繁殖的，他们是怎么旅行的，甚至连他们吃什么都不知道，更别提为什么他们要做这样的旅行了。这样一种神秘的生物自然牵动着人类的好奇心，没有想到从亚里士多德时期开始人们就开始研究鳗鱼，更没有想到弗洛伊德也曾经走进探索鳗鱼的世界，虽然完全没有任何进展，但也许影响了他走向心理学的道路也说不准。而鳗鱼繁殖地目前的猜测，一直到一战之后才由交约翰内斯·斯密特略窥一二，但是，我们还是没有任何定论。这里就说到了科学的局限性了。一位朋友和我就这个问题交流过好几回，无论是科学，宗教还是其他，人都要有一个“信任”的东西作为支柱。&lt;/p&gt;
@@ -357,7 +361,7 @@ And there was nobody there!&lt;/p&gt;
 
 &lt;p&gt;除了关于鳗鱼的科普，书中还以钓鳗鱼为线索，用淡淡的语言讲述了作者和父亲的故事。读前半部分的时候始觉得这些技术细节太多而我又完全不懂，但读着读着越来越喜欢这些描述，非常空旷的感觉，就像钓鱼时候长时间的沉默。但是在这种沉默里不是无聊，反而有一种深邃的东西。正如作者所说：“因为我们身处一个谈话需求有限的地方，一个最好保持沉默才能好好品味的地方。“尤其钓鳗鱼的时间大多是夜晚，那种沉默的感觉仿佛不仅是沉默而已，而是有一种永恒在其中，在鳗鱼在不断灭绝的时候，在过去的，以钓鳗鱼为例的生活方式在消亡的时候，这些沉默显得异常美好。&lt;/p&gt;
 
-&lt;h3 id=&quot;httpsbookdoubancomsubject2266022&quot;&gt;&lt;a href=&quot;https://book.douban.com/subject/2266022/&quot;&gt;《爱的艺术》&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;爱的艺术&quot;&gt;&lt;a href=&quot;https://book.douban.com/subject/2266022/&quot;&gt;《爱的艺术》&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;终于把这本可能从初高中就听说的书看了……比想象的短很多啊！可能是因为在to read列表上太长，大脑给书加了很多页把hhh&lt;/p&gt;
 
 &lt;p&gt;与其说是Art of loving（爱的艺术）, 不如说是Art of being a human（做人的艺术）。比如最后一章提到的&lt;strong&gt;discipline, concentration, patience, sensitivity, faith, courage, state of awakeness，哪一个不是好的生活得有的元素？不过跟重要的是，爱大约是人生的最终答案，是人类由于和自然的分离产生的孤独感的唯一解药。&lt;/strong&gt;爱是一种艺术，就像人生是一种艺术。爱的艺术是一门创造性的把自己的生命力带给别人，带给世界的艺术，不是天生的，是需要经过一生的努力不断学习精进的。虽然是有点老生常谈，但是还是很喜欢爱是一种积极活动的这个观点，是给予。给予是人体内蕴含的最大力量，在爱中，最大的给予是给予出自己的生命力，而这是内心充足的成熟的人才可以做到的。&lt;/p&gt;
@@ -368,23 +372,25 @@ And there was nobody there!&lt;/p&gt;
 
 &lt;p&gt;总体来说非常对我的胃口，而且觉得自己近几年读的很多书都在连成一片（大约很多是inspired by这本书），《何为良好生活》，《被讨厌的勇气》，《爱的进化论》，《树上的男爵》，甚至还有读完没有那么喜欢的《牧羊少年的奇幻之旅》其实说的事情都很类似hhh（当然这里可能也是我有点generalize了😂）不过还是太年轻，经验也少，还是有很多地方有很多疑惑，待接下来的人生慢慢体验学习吧～&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;电影：《亲爱的同志》&lt;/h2&gt;
+&lt;h2 id=&quot;电影亲爱的同志&quot;&gt;电影：《亲爱的同志》&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://movie.douban.com/subject/34960094/&quot;&gt;豆瓣条目&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;这部电影通过一个母亲兼官员的心理变化，讲述了曾被苏联政府隐瞒的1962年&lt;a href=&quot;https://zhuanlan.zhihu.com/p/346694427&quot;&gt;新切尔卡斯克事件&lt;/a&gt;，全片是黑白的。看电影的时候会有一种非常熟悉的感觉，官僚做派，封锁等等。另外在这种沉重的片子里还带有幽默元素，大约也就是俄罗斯特色了。印象最深的是：”A fucking strike in our socialist community? How is that possible?”真是让人哭笑不得。&lt;/p&gt;
 
 &lt;p&gt;另外也是通过这个电影才知道了这个事件，感慨自己历史知识真的是太少了……&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;播客：《「妈，我最近都挺好」》&lt;/h2&gt;
+&lt;h2 id=&quot;播客妈我最近都挺好&quot;&gt;播客：《「妈，我最近都挺好」》&lt;/h2&gt;
 &lt;iframe src=&quot;https://www.listennotes.com/embedded/e/b6da2b78fb7d43eda24c2e7ee168d2f4/&quot; height=&quot;100%&quot; width=&quot;100%&quot; style=&quot;width: 1px; min-width: 100%;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;这周又有很多喜欢的播客，不过以这一集故事FM为最佳。这一集里讲述者讲述了自己和母亲由于生活中的种种变故，从过去无话不谈关系轻松的两人，变成了互相习惯报喜不报忧，怕对方难过的状态。人类果然是喜爱故事的生物，而最令人感动的便是普通人普通的人生故事。&lt;/p&gt;
 
-&lt;p&gt;其他播客：&lt;br /&gt;
-1. &lt;a href=&quot;https://www.listennotes.com/podcasts/hidden-brain/the-story-of-stories-0v4XmORQngH/&quot;&gt;Hidden Brain - The Stories of Stories&lt;/a&gt;：介绍人类为什么喜欢给事情找解释&lt;br /&gt;
-2. &lt;a href=&quot;https://www.listennotes.com/podcasts/梁文道八分/269-马家辉代班我的6个读书心法-xFLJyG7pNuP/&quot;&gt;八分 - 马家辉代班：我的6个读书心法&lt;/a&gt;：道长好像身体出现一些状况🙏，不过“湾仔之狼”来代班啦～作为湾仔之狼迷妹超开心～这一期说了说读书的事情，尤其提到了马家辉老师自己在读书上的6点感悟，觉得很受用～&lt;/p&gt;
+&lt;p&gt;其他播客：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.listennotes.com/podcasts/hidden-brain/the-story-of-stories-0v4XmORQngH/&quot;&gt;Hidden Brain - The Stories of Stories&lt;/a&gt;：介绍人类为什么喜欢给事情找解释&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.listennotes.com/podcasts/梁文道八分/269-马家辉代班我的6个读书心法-xFLJyG7pNuP/&quot;&gt;八分 - 马家辉代班：我的6个读书心法&lt;/a&gt;：道长好像身体出现一些状况🙏，不过“湾仔之狼”来代班啦～作为湾仔之狼迷妹超开心～这一期说了说读书的事情，尤其提到了马家辉老师自己在读书上的6点感悟，觉得很受用～&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h2 id=&quot;black&quot;&gt;番剧：《工作细胞Black》&lt;/h2&gt;
+&lt;h2 id=&quot;番剧工作细胞black&quot;&gt;番剧：《工作细胞Black》&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/bangumi/play/ss36177/?from=search&amp;amp;seid=3559932533783203545&quot;&gt;观看链接&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;《工作细胞Black》完结啦～其实同时也看了《工作细胞第二季》，但是Black让人印象深刻得多，简直就是大型劝人作息规律，不要抽烟喝酒，不要压力太大，不要久坐，要锻炼要好好吃饭～经常看着看着我就站起来了，因为得动动，或者放下了手里的零食，或者拿出了水杯喝水😂另外里面也有很多医学治疗的介绍，感慨医学发展真是造福人类啊～推荐给大家，一定要注意身体健康啊～&lt;/p&gt;
@@ -397,13 +403,13 @@ And there was nobody there!&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 20 Mar 2021 00:00:00 -0400</pubDate>
-        <link>http://albuspensieve.github.io/weekly8</link>
-        <guid isPermaLink="true">http://albuspensieve.github.io/weekly8</guid>
+        <link>http://albuspensieve.github.io/albuspensieve.github.io/weekly8</link>
+        <guid isPermaLink="true">http://albuspensieve.github.io/albuspensieve.github.io/weekly8</guid>
         
         <category>weeklyDigest</category>
         
         
-        <category>life</category>
+        <category>Life</category>
         
       </item>
     
@@ -411,12 +417,12 @@ And there was nobody there!&lt;/p&gt;
         <title>Albus的Weekly Digest (2021.3.8-3.14)</title>
         <description>&lt;p&gt;Happy International Women’s Day :)&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;生活：抛开虚幻的掌控感吧～&lt;/h2&gt;
+&lt;h2 id=&quot;生活抛开虚幻的掌控感吧&quot;&gt;生活：抛开虚幻的掌控感吧～&lt;/h2&gt;
 &lt;p&gt;这周花了很多时间“给自己治病”😂，什么病呢，大概就是对control的追求吧～意识到自己其实是很怕失控的，虽然自律的早起啊运动啊也非常开心，但是背后的drive中有一种恐惧，对失控的恐惧。而这种恐惧不仅会在个人生活中有所体现，也会影响到人际关系。所以努力学习做一只快乐的废柴吧，学习体味不需要生活的方方面面都在自己的掌控中也可以快乐的状态！&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/weekly2021/achai.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/albuspensieve.github.io/img/weekly2021/achai.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;sonata-no2-in-b-flat-by-elisabeth-jacquet-de-la-guerre&quot;&gt;音乐：Sonata No.2 in B-flat by Elisabeth Jacquet de la Guerre&lt;/h2&gt;
+&lt;h2 id=&quot;音乐sonata-no2-in-b-flat-by-elisabeth-jacquet-de-la-guerre&quot;&gt;音乐：Sonata No.2 in B-flat by Elisabeth Jacquet de la Guerre&lt;/h2&gt;
 
 &lt;p&gt;这周在频道里进行女性作曲家的分享，认识了很多作曲家！以及很可惜很多女性作曲家的作品都被遗失了💔其中这一首Sonata非常喜欢，是法国作曲家Elisabeth Jacquet de la Guerre的作品。她生于1665年，是一位harpsichord神童，在五岁的时候就被法国国王路易十四注意到，并从此成为了路易十四的court musician。她的作品融合了法国音乐和意大利音乐的特点。&lt;/p&gt;
 
@@ -425,12 +431,12 @@ And there was nobody there!&lt;/p&gt;
   &lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;播客：《八分：核电站废弃后，那里的动物会怎么样？》&lt;/h2&gt;
+&lt;h2 id=&quot;播客八分核电站废弃后那里的动物会怎么样&quot;&gt;播客：《八分：核电站废弃后，那里的动物会怎么样？》&lt;/h2&gt;
 &lt;iframe src=&quot;https://www.listennotes.com/embedded/e/76924755245d4d0c8a14eeae9998096f/&quot; height=&quot;100%&quot; width=&quot;100%&quot; style=&quot;width: 1px; min-width: 100%;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;这期八分从日本3.11大地震开始讲起，说到了核电站废弃后动物们的情况，说了很多很有意思的事情，比如切尔诺贝利事故发生后，短时间内很多动物出现了异常，但是慢慢的生态得到了一定程度的恢复，在无人区内现在有非常多的动物，甚至还有之前由于人类活动而非常难以得见的动物。另外还提到了朝鲜和韩国之间的非军事区内，也是由于没有人类活动生态很好，而且那些动物居然学会了躲地雷！唉人类真是造孽啊，真是毁坏生态第一名……不过道长也说，这些事情让我们也看到了一丝丝希望：地球的修复力真的非常惊人，也许我们只需要做出一点点改变，就可以带来很大的好处。&lt;/p&gt;
 
-&lt;h2 id=&quot;louise-bourgeois-the-spider-the-mistress-and-the-tangerine&quot;&gt;纪录片：Louise Bourgeois: The Spider, the Mistress and the Tangerine&lt;/h2&gt;
+&lt;h2 id=&quot;纪录片louise-bourgeois-the-spider-the-mistress-and-the-tangerine&quot;&gt;纪录片：Louise Bourgeois: The Spider, the Mistress and the Tangerine&lt;/h2&gt;
 
 &lt;p&gt;这周由于给自己“治病”其实看了很多片子，但是回顾一周，最喜欢的还是这一部关于Louise Bourgeois的纪录片。之前对Louise Bourgeois的了解不多，只知道她的大蜘蛛，在很多地方都遇到过非常喜欢，觉得她的大蜘蛛有一种powerful和fragility的平衡，虽然是金属材质，但是很有温度。看了这一部作品，才知道这个蜘蛛是她母亲的象征。她的作品灵感基本都是来自于她的童年，纪录片里屡次提到童年的pain。她一生也蛮传奇的，年少的时候和杜尚那帮人混，所以可以看作是modern artist；然后消失于人们的视野之中，其实她一直没有停止创作只是中间没什么太多展览了， 晚年再度出现就变成了contemporary artist！纪录片中介绍了一个她contemporary的作品&lt;a href=&quot;https://www.tate.org.uk/whats-on/tate-modern/exhibition/unilever-series-louise-bourgeois-i-do-i-undo-i-redo&quot;&gt;&lt;em&gt;I do, I undo, I redo&lt;/em&gt;&lt;/a&gt;，是三座塔，每一座塔上都有一些装置，看起来太有意思了！有机会想去看看！&lt;/p&gt;
 
@@ -438,12 +444,12 @@ And there was nobody there!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV17h4119726?from=search&amp;amp;seid=17386322909084669376&quot;&gt;观看链接&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;番剧：《魔法少女小圆》&lt;/h2&gt;
+&lt;h2 id=&quot;番剧魔法少女小圆&quot;&gt;番剧：《魔法少女小圆》&lt;/h2&gt;
 &lt;p&gt;看完了朋友推荐的这部番！一开始看名字以为是青春治愈番，没想到是哲学致郁番！但是蛮喜欢的，虽然背后的宿命论让人觉得挺无力的，但是魔法少女们的态度和友谊很让人感动。看的时候想到了《降临》这部电影，如果已经知道了最后的结果如何，人会做什么选择呢？片子里还有一些其他很有哲理的地方，比如成为魔法少女可以实现一个愿望，片子中谈到了，如果是想实现其他的人愿望，背后自己到底是真的想帮助他人，还是想成为实现他愿望的恩人呢？还有小圆在不知道该做何选择的时候，她妈妈说，“干脆一错到底也是种方法哦”，有点共鸣哈哈哈～&lt;/p&gt;
 
 &lt;p&gt;另外这部作品里还有很多女性主义色彩，比如小圆的家庭是妈妈在外打拼，爸爸主要照顾家庭～中学的老师也经常说一些性别平等的事情，比如什么，如果一个男人对鸡蛋的吃法要求很高是非常不好的🤣&lt;/p&gt;
 
-&lt;h2 id=&quot;how-vulnerability-makes-you-a-better-leader&quot;&gt;视频：How vulnerability makes you a better leader&lt;/h2&gt;
+&lt;h2 id=&quot;视频how-vulnerability-makes-you-a-better-leader&quot;&gt;视频：How vulnerability makes you a better leader&lt;/h2&gt;
 &lt;p&gt;这只短视频里，这位分享者，作为女性创业者和一位母亲，讲述了她试图平衡这两个形象的挣扎。过去的她执着于维护自己的专业形象，即使怀孕时流产了也像没事人一样继续回去开会（看到那的时候忍不住泪目！）。之后她逐渐学习了向自己的下属展现自己vulnerable的一面，发现这样的展现并不是自己不强壮的表现，而是更加humane，公司的氛围也因此变得更为supportive～感觉这项技能不仅是女性需要学习的，男性也需要学习～&lt;strong&gt;展现vulnerability并不是怯懦，其实是一种勇气，比逞强更需要勇气～&lt;/strong&gt;&lt;/p&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
@@ -459,13 +465,13 @@ And there was nobody there!&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 14 Mar 2021 00:00:00 -0500</pubDate>
-        <link>http://albuspensieve.github.io/weekly7</link>
-        <guid isPermaLink="true">http://albuspensieve.github.io/weekly7</guid>
+        <link>http://albuspensieve.github.io/albuspensieve.github.io/weekly7</link>
+        <guid isPermaLink="true">http://albuspensieve.github.io/albuspensieve.github.io/weekly7</guid>
         
         <category>weeklyDigest</category>
         
         
-        <category>life</category>
+        <category>Life</category>
         
       </item>
     
@@ -473,12 +479,12 @@ And there was nobody there!&lt;/p&gt;
         <title>Albus的Weekly Digest (2021.3.1-3.7)</title>
         <description>&lt;p&gt;喜欢的东西呢，都是扎堆来的～&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;生活：试图实现小葱自由&lt;/h2&gt;
+&lt;h2 id=&quot;生活试图实现小葱自由&quot;&gt;生活：试图实现小葱自由&lt;/h2&gt;
 &lt;p&gt;这周开始尝试水培小葱～小葱长得很快呢～不知道这回可不可以实现小葱自由&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/weekly2021/scallion.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/albuspensieve.github.io/img/weekly2021/scallion.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;letters-from-a-stoic--&quot;&gt;书：&lt;em&gt;Letters from a Stoic&lt;/em&gt; 和 《昨日世界》&lt;/h2&gt;
+&lt;h2 id=&quot;书letters-from-a-stoic-和-昨日世界&quot;&gt;书：&lt;em&gt;Letters from a Stoic&lt;/em&gt; 和 《昨日世界》&lt;/h2&gt;
 &lt;p&gt;weekly digest终于在阔别了n周之后终于又有书可以分享了😂看书就是这样，“不看则已，一看，就好多本”（什么鬼&lt;/p&gt;
 
 &lt;h3 id=&quot;letters-from-a-stoic&quot;&gt;Letters from a Stoic&lt;/h3&gt;
@@ -500,9 +506,9 @@ And there was nobody there!&lt;/p&gt;
 
 &lt;p&gt;读这本书我用了一种之前没有过的方式，每天早上起来读一篇，所以前后一共读了三个月。早上起来在日出的陪伴下静静地读一封信真是让人心情平静，而且信里充满了智慧，有什么比这样开启一天更美好的吗？&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/weekly2021/seneca.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/albuspensieve.github.io/img/weekly2021/seneca.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;《昨日世界》&lt;/h3&gt;
+&lt;h3 id=&quot;昨日世界&quot;&gt;《昨日世界》&lt;/h3&gt;
 &lt;p&gt;这周看完的另一本书是茨维格的《昨日世界》，前后也读了蛮久，中间搁置了一段时间。&lt;/p&gt;
 
 &lt;p&gt;在此之前我对茨维格的印象还停留在初中（？）课本里说两个科考队抢占南极点的故事（其实《一个陌生女人的来信》是看过的，但是印象并不深刻lol），而且当时我其实真的非常非常非常不喜欢那篇文章😳。我这个人的审美一向倾向于比较朴实的东西，但是茨维格的语言可以说是非常浪漫主义，让我觉得非常浮夸，感觉他就是那种非常会包装，很会“添油加醋”的那种作家。&lt;/p&gt;
@@ -523,12 +529,12 @@ And there was nobody there!&lt;/p&gt;
 
 &lt;p&gt;大概也是我读书有限，我觉得这本从个人生活角度描述历史让人更有一种真实感，历史不再是教科书里说的用标志事件界定的时间范围而已，而是一个人，千万个人真实的生活。而在这真实生活中不会认识到“XXX标志着XXX的开始”，更多的是从警察突然的搜查，朋友突然的远离而感受到的“气候变了”。茨维格语言功力也真的很高明，渲染氛围的能力很强，通过一些看似微不足道的事情表现出了他当时的心境还有社会的氛围，而这才是普通人经历的真实的历史。&lt;/p&gt;
 
-&lt;h2 id=&quot;what-i-worked-on&quot;&gt;文章：What I Worked On&lt;/h2&gt;
+&lt;h2 id=&quot;文章what-i-worked-on&quot;&gt;文章：What I Worked On&lt;/h2&gt;
 &lt;p&gt;CS界的朋友估计都知道Paul Graham这个人，他的博客也是十分有名，估计有不少人看过他的书《黑客与画家》。这周我读了他新出的一篇博客文章&lt;em&gt;What I Worked On&lt;/em&gt;，回顾了他目前为止一生做过的事情，非常有趣。里面有他的学习生涯，创业的部分，还有他追求艺术事业的部分，个中有很多让人有所感悟的地方～&lt;/p&gt;
 
 &lt;p&gt;阅读请移步这里：&lt;a href=&quot;http://paulgraham.com/worked.html&quot;&gt;What I Worked On&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;beethoven-piano-concerto-no4&quot;&gt;音乐：Beethoven Piano Concerto No.4&lt;/h2&gt;
+&lt;h2 id=&quot;音乐beethoven-piano-concerto-no4&quot;&gt;音乐：Beethoven Piano Concerto No.4&lt;/h2&gt;
 &lt;p&gt;这周末朋友举办了一个Beethoven Piano Concerto No.4的分享活动，所以天知道这周我听了多少遍这首作品😂以至于暂时不想听了😂但是还是分享给大家～&lt;/p&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
@@ -536,22 +542,26 @@ And there was nobody there!&lt;/p&gt;
   &lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;播客：《与历史学家罗新漫谈旅行文学》&lt;/h2&gt;
+&lt;h2 id=&quot;播客与历史学家罗新漫谈旅行文学&quot;&gt;播客：《与历史学家罗新漫谈旅行文学》&lt;/h2&gt;
 &lt;p&gt;天呐这周的好播客太多了，选出一集太难了！最终决定还是选择罗新老师这一集～因为疫情的关系已经很久没有旅行了呢，但是在家附近散步听这期可以过一点点旅行的瘾～罗新老师从旅行文学开始，说到他自己的旅行（《从大都到上都》那本书），一直说到他即将做的一个关于长城（不仅是中国的还有世界各地的长城）的工作，还说到利用DNA进行历史研究的新趋势等等等等～虽然比较散漫但是听得很开心！&lt;/p&gt;
 
 &lt;iframe src=&quot;https://www.listennotes.com/embedded/e/e3e9d22449ec4f6eb4cf8ca9d6bdaace/&quot; height=&quot;100%&quot; width=&quot;100%&quot; style=&quot;width: 1px; min-width: 100%;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;其他候选播客：&lt;br /&gt;
-1. &lt;a href=&quot;https://www.listennotes.com/podcasts/doing-justice/episode-6-beyond-justice-ETU34mYMt7i/&quot;&gt;Doing Justice - “Beyond Justice”&lt;/a&gt;：这期里说的故事太神奇了。讲述了一位差点被一个white supremacist杀死的受害者，原谅了这位行凶者，而且发起了一个救这位罪犯一命（即试图免除他的死刑）的故事，非常震撼。&lt;br /&gt;
-2. &lt;a href=&quot;https://www.listennotes.com/podcasts/随机波动stochasticvolati/协和张羽最佳育龄生育之痛女性要过无怨无悔的生活-随机波动-DsqipCmnbfM/&quot;&gt;随机波动 - 协和张羽：最佳育龄？生育之痛？女性要过无怨无悔的生活&lt;/a&gt;：这期《随机波动》请了协和张羽讲了讲女性健康，生育，还有人生选择的话题，非常喜欢～&lt;/p&gt;
+&lt;p&gt;其他候选播客：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.listennotes.com/podcasts/doing-justice/episode-6-beyond-justice-ETU34mYMt7i/&quot;&gt;Doing Justice - “Beyond Justice”&lt;/a&gt;：这期里说的故事太神奇了。讲述了一位差点被一个white supremacist杀死的受害者，原谅了这位行凶者，而且发起了一个救这位罪犯一命（即试图免除他的死刑）的故事，非常震撼。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.listennotes.com/podcasts/随机波动stochasticvolati/协和张羽最佳育龄生育之痛女性要过无怨无悔的生活-随机波动-DsqipCmnbfM/&quot;&gt;随机波动 - 协和张羽：最佳育龄？生育之痛？女性要过无怨无悔的生活&lt;/a&gt;：这期《随机波动》请了协和张羽讲了讲女性健康，生育，还有人生选择的话题，非常喜欢～&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;纪录片：哈利波特里的女性&lt;/h2&gt;
+&lt;h2 id=&quot;纪录片哈利波特里的女性&quot;&gt;纪录片：哈利波特里的女性&lt;/h2&gt;
 &lt;p&gt;同样的这周看了好多纪录片（总共四部），都蛮喜欢的！不过三月是Women History Month，所以推荐这一部这部只有20分钟的短片：&lt;a href=&quot;https://www.bilibili.com/video/av2866932/&quot;&gt;《哈利波特里的女性》&lt;/a&gt;。这部短片里罗琳回顾了她在哈利波特世界里创造的女性形象：从好人莉莉、韦斯莱夫人、麦格教授、金妮、卢娜、赫敏，到坏人贝拉特里克斯、纳西莎、乌姆里奇，还请了演员说了说她们的理解。哈利波特里的女性形象真的是非常鲜活和丰满，没有什么花瓶，大多都是坚强，智慧，独立，真实，我觉得这可能是女作家才可以写出的女性形象。看的时候我很感动，非常感谢小时候遇到了这么一本书，多年来都一直是我人生的灯塔，而这些女性形象帮助我应对这个社会对女性的诸多审视，鼓励我活出自己。&lt;/p&gt;
 
-&lt;p&gt;其他候选纪录片：&lt;br /&gt;
-1. &lt;a href=&quot;https://www.bilibili.com/video/BV19K4y1x7AZ&quot;&gt;The Price of Everything&lt;/a&gt;: 难得的请到了艺术家（有embrace艺术市场的，有看不上的，还有曾经很出名，被人忽视了很多年又再被发现的），拍卖行的人，收藏家，art historian，讨论艺术和金钱的关系，观点很碰撞～～&lt;br /&gt;
-2. &lt;a href=&quot;https://www.bilibili.com/video/BV1DE411b77C&quot;&gt;钢琴的黄金时代&lt;/a&gt;：追溯了钢琴的发展历史，里面有很多很有意思的老影片～&lt;br /&gt;
-3. &lt;a href=&quot;https://www.bilibili.com/video/BV1TW41157D1&quot;&gt;城市化&lt;/a&gt;：一部讲述城市化的纪录片，有很多有意思的案例～不过可能是城市化本来就是一个每个城市都不一样的事情吧，所以感觉有点点堆砌～但还是知道了不少新东西～&lt;/p&gt;
+&lt;p&gt;其他候选纪录片：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV19K4y1x7AZ&quot;&gt;The Price of Everything&lt;/a&gt;: 难得的请到了艺术家（有embrace艺术市场的，有看不上的，还有曾经很出名，被人忽视了很多年又再被发现的），拍卖行的人，收藏家，art historian，讨论艺术和金钱的关系，观点很碰撞～～&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1DE411b77C&quot;&gt;钢琴的黄金时代&lt;/a&gt;：追溯了钢琴的发展历史，里面有很多很有意思的老影片～&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1TW41157D1&quot;&gt;城市化&lt;/a&gt;：一部讲述城市化的纪录片，有很多有意思的案例～不过可能是城市化本来就是一个每个城市都不一样的事情吧，所以感觉有点点堆砌～但还是知道了不少新东西～&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h2 id=&quot;quote&quot;&gt;Quote&lt;/h2&gt;
 &lt;p&gt;Unlike most of the smart first-year girls who hadn’t yet decided to suppress their intelligence— and there were a few of those — she wasn’t a glib. I don’t remember who said it first, but it’s such a wonderful line and so accurate: Ruth is somebody who is simply not afraid of dead air time. If you ask her a question that requires a thought-through answer she will stop, think it through and then answer it. (RBG的先生说RBG)&lt;/p&gt;
@@ -561,13 +571,13 @@ And there was nobody there!&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 07 Mar 2021 00:00:00 -0500</pubDate>
-        <link>http://albuspensieve.github.io/weekly6</link>
-        <guid isPermaLink="true">http://albuspensieve.github.io/weekly6</guid>
+        <link>http://albuspensieve.github.io/albuspensieve.github.io/weekly6</link>
+        <guid isPermaLink="true">http://albuspensieve.github.io/albuspensieve.github.io/weekly6</guid>
         
         <category>weeklyDigest</category>
         
         
-        <category>life</category>
+        <category>Life</category>
         
       </item>
     
@@ -575,36 +585,40 @@ And there was nobody there!&lt;/p&gt;
         <title>Albus的Weekly Digest (2021.2.21-2.28)</title>
         <description>&lt;p&gt;二月，结束了。&lt;/p&gt;
 
-&lt;h2 id=&quot;walnut-banana-bread&quot;&gt;生活：Walnut Banana Bread&lt;/h2&gt;
+&lt;h2 id=&quot;生活walnut-banana-bread&quot;&gt;生活：Walnut Banana Bread&lt;/h2&gt;
 &lt;p&gt;这周做了一只Walnut Banana Bread，好做又好吃～yummy嘻嘻嘻&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/weekly2021/bananabread.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/albuspensieve.github.io/img/weekly2021/bananabread.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;justice&quot;&gt;公开课：Justice&lt;/h2&gt;
+&lt;h2 id=&quot;公开课justice&quot;&gt;公开课：Justice&lt;/h2&gt;
 &lt;p&gt;这个课应该很多人都听说过，是当年这种网络课程刚兴起的时候就非常有名的明星课程～由于科研的关系，最近看了这个课程，真的是非常非常非常推荐！这个课介绍了很多哲学家对于什么是公正的看法，比如utilitarian式的（公正的做法就是可以最大化人们幸福的做法），categorical的（认为有一些权利是神圣不可侵犯的），还有亚里士多德将公正和美德（virtue）联系起来。这些理论看起来都有点timidating，但是课上有非常多的现实案例，从过去的一些legal case，到现在仍然在辩论的代孕、同性婚姻等等问题，使得这些理论可以在现实问题中得到彰显。另外非常难得的是课堂的讨论氛围，很多讨论的问题是有些敏感的，同学们的观点也是激烈碰撞，但是整个氛围非常友好非常civil，感觉现在已经是难得见到了。&lt;/p&gt;
 
 &lt;p&gt;这个课前后可能看了两个月了，一开始是非常认真的读每个reading，记笔记的，但是有些reading实在不好读严重影响了进度……所以现在只是把视频看完了，还有一堆reading要补……&lt;/p&gt;
 
-&lt;p&gt;想看这个课可以移步：&lt;br /&gt;
-1. &lt;a href=&quot;https://www.edx.org/course/justice-2&quot;&gt;EdX&lt;/a&gt;：这上面有reading和自测题，或者&lt;br /&gt;
-2. &lt;a href=&quot;https://www.bilibili.com/video/BV1ct4y167fM?from=search&amp;amp;seid=14748692220927818136&quot;&gt;B站&lt;/a&gt;：这里有中文字幕&lt;/p&gt;
+&lt;p&gt;想看这个课可以移步：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.edx.org/course/justice-2&quot;&gt;EdX&lt;/a&gt;：这上面有reading和自测题，或者&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1ct4y167fM?from=search&amp;amp;seid=14748692220927818136&quot;&gt;B站&lt;/a&gt;：这里有中文字幕&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;电视剧：《悠长假期》&lt;/h2&gt;
+&lt;h2 id=&quot;电视剧悠长假期&quot;&gt;电视剧：《悠长假期》&lt;/h2&gt;
 &lt;p&gt;在二月的末尾binge watch了一部96年的经典日剧：&lt;a href=&quot;https://movie.douban.com/subject/1436674/&quot;&gt;《悠长假期》&lt;/a&gt;。虽然剧情有些狗血（偶像剧嘛），但是很多心理把握还是很细腻很真实的～另外这部剧里面有好多古典音乐梗，男主是学钢琴的，配乐里有很多耳熟能详的作品，另外还有Kissin和Glenn Gould的短暂出现😂不过不知道为什么一到关键时刻，这些梗就突然不legit了，比如最后钢琴比赛演的曲目……不过还是蛮喜欢这部剧的！看的时候也有一种自己放了一个long vacation的感觉，好像很久没有过了呢～&lt;/p&gt;
 
-&lt;h2 id=&quot;sibelius-mini-series&quot;&gt;音乐：Sibelius Mini-Series&lt;/h2&gt;
+&lt;h2 id=&quot;音乐sibelius-mini-series&quot;&gt;音乐：Sibelius Mini-Series&lt;/h2&gt;
 &lt;p&gt;本周在频道了进行了Sibelius的Mini-Series分享，一共七篇文章～我写mini-series其实前后花了我可能有一个月的时间，做了很多research，读了很多文章，听了很多节目，对Sibelius有了更多的了解～阅读所有的文章请移步&lt;a href=&quot;https://classicalmusictele.substack.com&quot;&gt;这里～&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;播客：《语文教育，我们与语言的关系》&lt;/h2&gt;
-&lt;p&gt;最近读Seneca的&lt;em&gt;A Letter from a Stoic&lt;/em&gt;, 屡次提到Seneca对于“华丽词藻”的批判态度。从这我就想到了，我们从小到大学的语文，到底是一个什么东西？到底什么是好的语文教育？然后想起了去年这一期播客，好像当时只听了一半，就重新听了一下。暂时抛开李厚辰争议，我觉得这期播客里还是有一些蛮有意思的观点的，比如：&lt;br /&gt;
-1. 节目里提到语文是Philology，和哲学（Philosophy）的造词很像，哲学是爱（Phila）智慧（Sophia），而语文是爱（Phila）逻格斯（Logos）。对于逻格斯，我过去的理解就是逻辑，但是节目中说罗格斯是理解，是法则的构成，并不是逻辑（此处需要further research）&lt;br /&gt;
-2. 节目中认为语文的目的是教人反思和呈现，对重要问题的说服（以及被说服）。&lt;br /&gt;
-3. 节目中提到，语文不可以和其他学科分开：我们在学习其他学科的时候也需要利用语文的文本。另外提到了很多问题看似是别的学科的问题，但其实是语文问题（维特根斯坦的观念语言游戏？唉，读书太少了！）&lt;br /&gt;
-4. 节目中也提到了一些主播对于语文教育方法的思考。他认为语文应该是用不同的语言文本告诉人什么是好的罗格斯，什么是坏的罗格斯。在这种教学中，坏的文本和好的文本一样重要（比如拿来一篇不好的公众号文章，分析哪里是坏的论述）。另外还提到了当下主义的语文，就是在读文本时，勾连当下进行理解，比如鲁迅的看客概念，在当今社会有什么反映？&lt;/p&gt;
+&lt;h2 id=&quot;播客语文教育我们与语言的关系&quot;&gt;播客：《语文教育，我们与语言的关系》&lt;/h2&gt;
+&lt;p&gt;最近读Seneca的&lt;em&gt;A Letter from a Stoic&lt;/em&gt;, 屡次提到Seneca对于“华丽词藻”的批判态度。从这我就想到了，我们从小到大学的语文，到底是一个什么东西？到底什么是好的语文教育？然后想起了去年这一期播客，好像当时只听了一半，就重新听了一下。暂时抛开李厚辰争议，我觉得这期播客里还是有一些蛮有意思的观点的，比如：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;节目里提到语文是Philology，和哲学（Philosophy）的造词很像，哲学是爱（Phila）智慧（Sophia），而语文是爱（Phila）逻格斯（Logos）。对于逻格斯，我过去的理解就是逻辑，但是节目中说罗格斯是理解，是法则的构成，并不是逻辑（此处需要further research）&lt;/li&gt;
+  &lt;li&gt;节目中认为语文的目的是教人反思和呈现，对重要问题的说服（以及被说服）。&lt;/li&gt;
+  &lt;li&gt;节目中提到，语文不可以和其他学科分开：我们在学习其他学科的时候也需要利用语文的文本。另外提到了很多问题看似是别的学科的问题，但其实是语文问题（维特根斯坦的观念语言游戏？唉，读书太少了！）&lt;/li&gt;
+  &lt;li&gt;节目中也提到了一些主播对于语文教育方法的思考。他认为语文应该是用不同的语言文本告诉人什么是好的罗格斯，什么是坏的罗格斯。在这种教学中，坏的文本和好的文本一样重要（比如拿来一篇不好的公众号文章，分析哪里是坏的论述）。另外还提到了当下主义的语文，就是在读文本时，勾连当下进行理解，比如鲁迅的看客概念，在当今社会有什么反映？&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;iframe src=&quot;https://www.listennotes.com/embedded/e/3b947f4de756477f86542dc623c06540/&quot; height=&quot;100%&quot; width=&quot;100%&quot; style=&quot;width: 1px; min-width: 100%;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;violoncello-da-spalla&quot;&gt;小知识：violoncello da spalla&lt;/h2&gt;
+&lt;h2 id=&quot;小知识violoncello-da-spalla&quot;&gt;小知识：violoncello da spalla&lt;/h2&gt;
 &lt;p&gt;被youtube推了一个视频，发现了这个神奇的乐器～看起来是一个介于小提琴和大提琴之间的乐器～，演奏的时候是把琴背在脖子上（或者肩上），是18世纪的古乐器～&lt;/p&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
@@ -624,13 +638,13 @@ And there was nobody there!&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 28 Feb 2021 00:00:00 -0500</pubDate>
-        <link>http://albuspensieve.github.io/weekly5</link>
-        <guid isPermaLink="true">http://albuspensieve.github.io/weekly5</guid>
+        <link>http://albuspensieve.github.io/albuspensieve.github.io/weekly5</link>
+        <guid isPermaLink="true">http://albuspensieve.github.io/albuspensieve.github.io/weekly5</guid>
         
         <category>weeklyDigest</category>
         
         
-        <category>life</category>
+        <category>Life</category>
         
       </item>
     
@@ -638,12 +652,12 @@ And there was nobody there!&lt;/p&gt;
         <title>Albus的Weekly Digest (2021.2.15-2.21)</title>
         <description>&lt;p&gt;买了一只萌萌的jellycat～&lt;/p&gt;
 
-&lt;h2 id=&quot;jellycat&quot;&gt;生活：Jellycat&lt;/h2&gt;
+&lt;h2 id=&quot;生活jellycat&quot;&gt;生活：Jellycat&lt;/h2&gt;
 &lt;p&gt;经过快半年的纠结，终于下手了一只Jellycat，选择了元气满满的牛油果君！太可爱啦～～&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/weekly2021/jellycat.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/albuspensieve.github.io/img/weekly2021/jellycat.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;variations-seriuses&quot;&gt;音乐：Variations Seriéuses&lt;/h2&gt;
+&lt;h2 id=&quot;音乐variations-seriéuses&quot;&gt;音乐：Variations Seriéuses&lt;/h2&gt;
 &lt;p&gt;本周在频道了进行了辛丑年古典音乐分享，分享从1661年的辛丑年直到1961年的辛丑年的古典音乐作品。没想到可以通过这种方式发掘作品哈哈～其中种草了Mendelssohn的Variations Seriéuses，是为纪念贝多芬所做，一改我之前对门德尔松恬美的浅薄认知。这个variation真是包罗万象，比如第六和第七变奏两个声部的交流，第十变奏的fugue，第十三变奏将主题放到中声部，第十四变奏转到大调上，还有非常energetic的最后两个变奏以及coda（感觉好像有不少贝多芬的影子），喜欢～&lt;/p&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
@@ -651,17 +665,17 @@ And there was nobody there!&lt;/p&gt;
   &lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;播客：《我是来自河南的犹太人》&lt;/h2&gt;
+&lt;h2 id=&quot;播客我是来自河南的犹太人&quot;&gt;播客：《我是来自河南的犹太人》&lt;/h2&gt;
 &lt;p&gt;最近好像老是碰到犹太的话题，先是读了圣经故事，然后最近在看茨威格《昨日世界》中提到犹太复国的话题，然后又和几位朋友之前聊起了犹太的一些话题，其中还提到了中国的犹太人，结果就碰到故事FM出了这一期节目！这期挺有意思的，讲述者是一位来自河南的犹太人女孩儿，说了说她爸爸为当地犹太人社区做的事情，以及她自己本人去以色列学习犹太知识和习俗的故事。&lt;/p&gt;
 
 &lt;iframe src=&quot;https://www.listennotes.com/embedded/e/e98d8f08c4044a929b8db5c6dc333a1f/&quot; height=&quot;100%&quot; width=&quot;100%&quot; style=&quot;width: 1px; min-width: 100%;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;john-rawls&quot;&gt;读书：John Rawls的《正义论》导读&lt;/h2&gt;
+&lt;h2 id=&quot;读书john-rawls的正义论导读&quot;&gt;读书：John Rawls的《正义论》导读&lt;/h2&gt;
 &lt;p&gt;说来惭愧，这个感觉不是正经读书，只是读了一个介绍罗尔斯哲学的导读，不过觉得蛮有意思的。&lt;/p&gt;
 
 &lt;p&gt;John Rawls的Theory of Justice（正义论）是近代非常具有影响力的一个理论，其中Justice as Fairness是被讨论非常多的。这里列几个我看这个snippet觉得比较有趣的几个点，并不是他理论的概括：&lt;/p&gt;
 
-&lt;h3 id=&quot;overlapping-consensus&quot;&gt;Overlapping Consensus（重叠共识）&lt;/h3&gt;
+&lt;h3 id=&quot;overlapping-consensus重叠共识&quot;&gt;Overlapping Consensus（重叠共识）&lt;/h3&gt;
 
 &lt;p&gt;Rawls认为社会可以有一种Overlapping Consensus（重叠共识），并且这是一个公正的社会稳定的核心。他认为虽然每个人的想法不同，但是有一套核心的法则是被所有人共同承认的，虽然大家承认的原因可能不一样。比如说天主教可以基于他教义的内容来认同宗教自由，自由主义者可能以人是自由的理由认同宗教自由，但是大家都认同宗教自由。&lt;/p&gt;
 
@@ -682,7 +696,7 @@ And there was nobody there!&lt;/p&gt;
 
 &lt;p&gt;这里我觉得Rawls的设想十分理想，因为现实生活中，首先是人很难知道其他设定的情况，另外是人的嫉妒心理感觉很难消除，可以想像第一种设定人的心理上会觉得更为“公平”。另外我觉得这可能也和蛋糕在不在增长有关。在大家的蛋糕都在变大的时候，可能这种“不平等”在心理上是容易接受的，因为自己也在获利，然而在蛋糕增长的慢的时候……well&lt;/p&gt;
 
-&lt;h3 id=&quot;veil-of-ignorance&quot;&gt;Veil of Ignorance（无知之幕）&lt;/h3&gt;
+&lt;h3 id=&quot;veil-of-ignorance无知之幕&quot;&gt;Veil of Ignorance（无知之幕）&lt;/h3&gt;
 &lt;p&gt;这可能是Rawls最为出名的一个思想实验？提出这个思想实验的目的是为了解决到底什么具体的条款可以实现以上的Justice as Fairness，即What terms of cooperation would free and equal citizens agree to under fair conditions?&lt;/p&gt;
 
 &lt;p&gt;Rawls的认为我们只有在无知之幕的后面才能做出正确的决定。在无知之幕后面，我们不知道个人的种族、性别、年龄、收入、先天条件等等等等，同时也不知道社会的情况，包括经济状况，阶级状况等等。我们只知道每个人可能都有自己认为重要的东西和一套准则。这里附上一个专门介绍无知之幕思想实验的短视频：&lt;a href=&quot;https://www.youtube.com/watch?v=AL-SW9HN7hk&quot;&gt;思想实验：无知之幕&lt;/a&gt;&lt;/p&gt;
@@ -691,7 +705,7 @@ And there was nobody there!&lt;/p&gt;
 
 &lt;p&gt;阅读John Rawls的总结请点这里：&lt;a href=&quot;https://www.bilibili.com/video/BV1Xx411G7YH&quot;&gt;Stanford Encyclopedia of Philosophy - John Rawls&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;um-like-&quot;&gt;小知识：”um, like, 然后”也不是一无是处&lt;/h2&gt;
+&lt;h2 id=&quot;小知识um-like-然后也不是一无是处&quot;&gt;小知识：”um, like, 然后”也不是一无是处&lt;/h2&gt;
 &lt;p&gt;不知道各位有没有从小就老被妈妈说：”你说话怎么老是’然后’呀！”😂学了英文之后”然后”变成了”like”，或者”um”，每次都觉得自己说话好不专业。不过这期TED-Ed算为这些filler word正了点名～其实他们并不是一无是处，除了帮助我们跟上自己的思维以外，还有很多其他的功用，尤其是在人与人的对话之中。比如如果是沉默的停顿，对方可能会觉得是轮到他说话了，但是使用filler word做停顿就不会有这个困扰；还可以提醒听者，一个重要的词即将到来；另外有些词还带有自己的含义，比如”I mean”会让听者觉得下面说话人是要具体解释了等。另外还有研究发现，使用filler word的频率和一个人对于语言的掌握程度并没有明显的关系，而filler word对于第二语言学习者可能起到一种缓冲的作用。&lt;/p&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
@@ -707,13 +721,13 @@ And there was nobody there!&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 20 Feb 2021 00:00:00 -0500</pubDate>
-        <link>http://albuspensieve.github.io/weekly4</link>
-        <guid isPermaLink="true">http://albuspensieve.github.io/weekly4</guid>
+        <link>http://albuspensieve.github.io/albuspensieve.github.io/weekly4</link>
+        <guid isPermaLink="true">http://albuspensieve.github.io/albuspensieve.github.io/weekly4</guid>
         
         <category>weeklyDigest</category>
         
         
-        <category>life</category>
+        <category>Life</category>
         
       </item>
     
@@ -721,26 +735,26 @@ And there was nobody there!&lt;/p&gt;
         <title>Albus的Weekly Digest (2021.2.8-2.14)</title>
         <description>&lt;p&gt;大家新年快乐，牛年大吉，心想事成！🧧🧨🎆&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;生活：过年&lt;/h2&gt;
+&lt;h2 id=&quot;生活过年&quot;&gt;生活：过年&lt;/h2&gt;
 &lt;p&gt;已经是第六（？）个年头在美国过年啦～今年和室友一起吃了个饭（感谢室友的投喂！），然后在合肥的奶奶，爸妈，姑妈姑父，还有加州的姐姐姐夫，第一次进行了三地的线上过年party，玩的很开心～&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/weekly2021/2021guonian.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/albuspensieve.github.io/img/weekly2021/2021guonian.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;播客：《迟早更新：迟早过年》&lt;/h2&gt;
+&lt;h2 id=&quot;播客迟早更新迟早过年&quot;&gt;播客：《迟早更新：迟早过年》&lt;/h2&gt;
 &lt;p&gt;《迟早更新》的迟早过年节目好像已经是第四年了？每年的大年三十到年初六都是读书向的日更，真的是很不容易呢～今年的主题是女性主义和平等，现在听了两期了，讲的特别好～第一期讲了很多生物相关的东西，第二期介绍了很多女性主义最早萌发时期的经典书籍，种草了一堆书～还知道了写《弗兰肯斯坦》的玛丽·雪莱的母亲，玛丽·沃斯通克拉夫特是女性主义之母，她写的《为女权辩护》可是出版于1792年，距今接近230年！太厉害了～&lt;/p&gt;
 
 &lt;p&gt;另外很喜欢任宁和枪枪，他们的讨论总是温和理性的，没有那么多的预设立场，没有在网上常见的来自两边的极端观点，而是充满了好奇心和open-minded的讨论，每一期节目都有很多收获～&lt;/p&gt;
 
 &lt;iframe src=&quot;https://www.listennotes.com/embedded/e/e0e9324110a54b668c0530187600dce8/&quot; height=&quot;100%&quot; width=&quot;100%&quot; style=&quot;width: 1px; min-width: 100%;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;视频：三色艺术史&lt;/h2&gt;
+&lt;h2 id=&quot;视频三色艺术史&quot;&gt;视频：三色艺术史&lt;/h2&gt;
 &lt;p&gt;偶然发现了这个纪录片，选择了三种颜色：金色、蓝色、白色，来介绍艺术史～我非常喜欢这种从小角度来介绍历史的设定，让我们可以跳出熟悉的时间的线性叙事，发现更多有趣的联系～&lt;/p&gt;
 
 &lt;p&gt;我目前还只看完了金色的那个，觉得非常有意思，从最早金色代表着太阳，然后代表着神性（宗教相关），到现代代表着爱（Klimt的Kiss），金色可能始终承载的是人类对于美好事物的珍惜和向往。影片最后，主持人在英国的地下金库里，看着满库的金条，略微无奈的说道，现在金色好像只是金钱了，很多美学的意义就此消散，仿佛有些遗憾，有些感慨。&lt;/p&gt;
 
 &lt;p&gt;观看请点这里：&lt;a href=&quot;https://www.bilibili.com/video/BV1LW41197aX&quot;&gt;三色艺术史——金色&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;小知识：为什么蝙蝠不会生病？&lt;/h2&gt;
+&lt;h2 id=&quot;小知识为什么蝙蝠不会生病&quot;&gt;小知识：为什么蝙蝠不会生病？&lt;/h2&gt;
 &lt;p&gt;这个小小的TED-Ed视频介绍了蝙蝠为什么在被许多病毒感染的情况下却不会生病的神奇现象，世界真奇妙～不知道这是不是也是一种可以攻克很多医学难题的手段？&lt;/p&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
@@ -755,13 +769,13 @@ And there was nobody there!&lt;/p&gt;
 &lt;p&gt;这周的weekly digest就到这里啦～这周其实过的有点略微“浑浑噩噩”，所以可以分享的东西不是特别多😳看书方面开了很多新坑但是都没有看完所以暂时也没法分享囧～大家这周都看了/听了/学了什么好玩的东西呢？在评论里留言一起交流吧～&lt;/p&gt;
 </description>
         <pubDate>Sat, 13 Feb 2021 00:00:00 -0500</pubDate>
-        <link>http://albuspensieve.github.io/weekly3</link>
-        <guid isPermaLink="true">http://albuspensieve.github.io/weekly3</guid>
+        <link>http://albuspensieve.github.io/albuspensieve.github.io/weekly3</link>
+        <guid isPermaLink="true">http://albuspensieve.github.io/albuspensieve.github.io/weekly3</guid>
         
         <category>weeklyDigest</category>
         
         
-        <category>life</category>
+        <category>Life</category>
         
       </item>
     

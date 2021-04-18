@@ -2,6 +2,8 @@ baseurl: "/albuspensieve.github.io" # The subpath of your site. Use "" if you're
 url: "http://albuspensieve.github.io" # the base hostname & protocol for your site
 title: "Albus' Pensieve"
 
+encoding: utf-8
+
 # This is used by feed.xml. Uncomment if you want to use it.
 # description: "..."
 
@@ -46,9 +48,8 @@ kramdown:
   # parse_block_html: true
   # parse_inline_html: true
 
-gems:
-  - jekyll-seo-tag
-  - octopress-video-tag
+# gems:
+#   - jekyll-seo-tag
 
 # gems:
 #   
