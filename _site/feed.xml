@@ -5,23 +5,24 @@
     <description></description>
     <link>http://albuspensieve.github.io/</link>
     <atom:link href="http://albuspensieve.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 17 Apr 2021 23:21:31 -0400</pubDate>
-    <lastBuildDate>Sat, 17 Apr 2021 23:21:31 -0400</lastBuildDate>
+    <pubDate>Sat, 17 Apr 2021 23:44:12 -0400</pubDate>
+    <lastBuildDate>Sat, 17 Apr 2021 23:44:12 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Albus的Weekly Digest (2021.4.12-4.18)</title>
-        <description>&lt;p&gt;喘了一大口气的地球，着实让人感动。&lt;/p&gt;
+        <description>&lt;p&gt;波士顿牌过山车，为喘了一大口气的地球惊叹，还有那些被喜悦暴击的时刻。&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;生活：昨天是春天，今天是冬天&lt;/h2&gt;
+&lt;h2 id=&quot;section&quot;&gt;生活：波士顿牌过山车&lt;/h2&gt;
 &lt;p&gt;波士顿过山车一般的天气真是名不虚传。曾经看过这样一个图：&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/weekly2021/bostonmeme.jpg&quot; alt=&quot;drawing&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;这样的天气这周就发生啦～周三还在附近散步的时候看到了一棵特别大大大大大大大的垂樱，真是令人惊叹的美。结果周五下雪了❄️不知道那棵樱花怎么样了，雪中的她肯定更美，但是她是不是觉得好冷啊。&lt;/p&gt;
 
-&lt;video controls=&quot;&quot; width=&quot;300px&quot; preload=&quot;auto&quot; onclick=&quot;(function(el){ if(el.paused) el.play(); else el.pause() })(this)&quot;&gt;&lt;source src=&quot;/img/weekly2021/bigsakura.mp4&quot; type=&quot;video/mp4; codecs=&amp;quot;avc1.42E01E, mp4a.40.2&amp;quot;&quot; /&gt;&lt;/video&gt;
-&lt;video controls=&quot;&quot; width=&quot;300px&quot; preload=&quot;auto&quot; onclick=&quot;(function(el){ if(el.paused) el.play(); else el.pause() })(this)&quot;&gt;&lt;source src=&quot;/img/weekly2021/aprilsnow.mp4&quot; type=&quot;video/mp4; codecs=&amp;quot;avc1.42E01E, mp4a.40.2&amp;quot;&quot; /&gt;&lt;/video&gt;
+&lt;video id=&quot;video&quot; width=&quot;100%&quot; height=&quot;auto&quot; controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
+  &lt;source id=&quot;mp4&quot; src=&quot;/img/weekly2021/bostonrollercoaster.mp4#t=1&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
 
 &lt;h2 id=&quot;section-1&quot;&gt;音乐：春よ、来た&lt;/h2&gt;
 &lt;p&gt;这周听Spotify的春のうた歌单听到了这首歌，太好听了！这才认识了这位十分有名的日本歌手松任谷由実，而且现在还在活跃呢！听了她一些专辑，有很多很喜欢的作品！这首歌名翻译过来大概是“春天，来吧”的意思，是一首有些惆怅但又有些希望的歌。&lt;/p&gt;
