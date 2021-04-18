@@ -1,4 +1,4 @@
-baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
+baseurl: "/albuspensieve.github.io" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 url: "http://albuspensieve.github.io" # the base hostname & protocol for your site
 title: "Albus' Pensieve"
 
@@ -8,6 +8,7 @@ title: "Albus' Pensieve"
 plugins:
   - jemoji
   - jekyll-seo-tag
+
 exclude:
   - "README.md"
   - "CHANGELOG.md"
@@ -44,3 +45,10 @@ kramdown:
   # html_to_native: true
   # parse_block_html: true
   # parse_inline_html: true
+
+gems:
+  - jekyll-seo-tag
+  - octopress-video-tag
+
+# gems:
+#   

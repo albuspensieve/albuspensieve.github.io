@@ -1,0 +1,16 @@
+current directory: /Users/xindiwang/Documents/mypage/albuspensieve.github.io/“/Users/xindiwang/.gem”/gems/racc-1.5.2/ext/racc/cparse
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/2.7.2/lib/ruby/2.7.0 -r ./siteconf20210417-18123-2g8oev.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/xindiwang/Documents/mypage/albuspensieve.github.io/“/Users/xindiwang/.gem”/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/xindiwang/Documents/mypage/albuspensieve.github.io/“/Users/xindiwang/.gem”/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/xindiwang/Documents/mypage/albuspensieve.github.io/“/Users/xindiwang/.gem”/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20210417-18123-97cb1q/racc
