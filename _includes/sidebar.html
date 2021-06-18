@@ -10,7 +10,7 @@
 {% assign categories = site.categories | sort %}
 {% for category in categories %}
  <span class="site-category">
-    <a href="/category/#{{ category | first | slugify }}/"
+    <a href="{{ site.baseurl }}/category/#{{ category | first | slugify }}/"
         style="font-size: {{ category | last | size  |  times: 4 | plus: 80  }}%">
             {{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})
     </a>
@@ -21,7 +21,7 @@
 {% assign tags = site.tags | sort %}
 {% for tag in tags %}
  <span class="site-tag">
-    <a href="/tag/#{{ tag | first | slugify }}/"
+    <a href="{{ site.baseurl }}/tag/#{{ tag | first | slugify }}/"
         style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
             {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
     </a>
