@@ -1,0 +1,16 @@
+---
+label: Weekly Digest
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: categories
+  label: categories
+- type: text
+  name: tag
+  label: tag
+- type: text
+  name: youtubeId
+  label: youtubeId
