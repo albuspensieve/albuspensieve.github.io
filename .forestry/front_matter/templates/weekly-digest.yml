@@ -11,6 +11,3 @@ fields:
 - type: text
   name: tag
   label: tag
-- type: text
-  name: youtubeId
-  label: youtubeId
