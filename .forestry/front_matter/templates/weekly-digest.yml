@@ -11,3 +11,5 @@ fields:
 - type: text
   name: tag
   label: tag
+pages:
+- _posts/cms.md
