@@ -56,7 +56,7 @@ layout: default
             Newer
             {% unless page.previous %}
               <span class="text-muted"> &middot; </span>
-              <a href="{{ "/archive" | prepend:site.baseurl }}">View Archive ({{ site.posts.size }})</a>
+              <a href="{{ '/archive' | prepend:site.baseurl }}">View Archive ({{ site.posts.size }})</a>
             {% endunless %}
           </h3>
           <h2 class="post-title-link"><a href="{{ page.next.url | prepend:site.baseurl }}">{{ page.next.title }}</a></h2>
