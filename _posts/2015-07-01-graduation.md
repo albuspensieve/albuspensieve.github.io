@@ -1,6 +1,7 @@
 ---
 title: "写在毕业"
-categories: Personal
+categories: Life
+tags: thought-of-life
 ---
 
 飞机晚点三个小时，仿佛成都在挽留我一样。

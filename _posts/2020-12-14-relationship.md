@@ -1,7 +1,7 @@
 ---
 title: "Untitled (…about想谈恋爱？）"
-categories: Life
-tag: life
+categories: Personal
+tag: thought-of-life
 ---
 这几天论坛里有个帖子火了起来，大概就是问大家有没有特别想谈恋爱的时候。
 

@@ -1,7 +1,7 @@
 ---
 title: "摘苹果：新英格兰秋季传统项目"
-categories: Life
-tag: travel
+categories: Fun
+tag: fall
 ---
 
 十月一号，趁着天气还没有完全冷下来，突然萌生了去摘苹果的念头～摘苹果（apple picking）作为新英格兰秋天的传统项目，虽然来波士顿已经八年有余，之前却一直没有体验过～
