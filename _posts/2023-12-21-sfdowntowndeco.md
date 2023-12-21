@@ -2,6 +2,8 @@
 title: "再访旧金山: Art Deco（装饰艺术）建筑巡礼"
 categories: Travel
 tag: [Bay Area, art, history]
+image:
+  path: img/downtown_deco/thumbnail.png
 ---
 
 十一月又蹭 R 兄开会的机会来到三番～这次住在三番城区，离 SFMoMA 就三分钟脚程。因为人身在西部，却上着东部的班，每天下午两点后就可以到处出去玩了～这回机缘巧合发现了一个网站叫做 [San Francisco City Guides](https://sfcityguides.org)。他们是一个nonprofit组织，有很多关于三番城市的免费（❗️）tour，比如说关于旧金山大地震啦，大淘金啦，还有各种建筑啦～于是报名参加了 [Downtown Deco Tour](https://sfcityguides.org/tour/downtown-deco/)，大概就是在 Financial District 到 Union Square 之间，介绍各种旧金山 Art Deco （装饰艺术）时期的建筑。这个 tour 简直太棒了，我们一共看了大概十个建筑吧，从外观到历史讲解员 Fred 都有非常详细的介绍，有些建筑还带我们进了 lobby 看内饰，真是应接不暇，疯狂推荐～这篇博客就介绍一下这个导览里我们参观的每个建筑～因为时隔久远，而且也不是所有信息都记得，所以可能会有遗漏或者错误还请各位担待指正。
