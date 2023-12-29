@@ -3,7 +3,7 @@ title: "波多黎各游记"
 categories: Travel
 tag: [nature]
 image:
-  path: img/puertorico/thumbnail.png
+  path: img/peurto_rico/thumbnail.png
 ---
 
 感恩节后一周去了波多黎各+奥兰多，玩得还挺开心的～先插入一下这次旅行的 Vlog，不想看文字的话就直接移步视频吧哈哈哈哈哈～这篇博客比起 vlog 有更多的一些细节和乱七八糟的延展哈哈～
