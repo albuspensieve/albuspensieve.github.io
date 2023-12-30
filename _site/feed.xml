@@ -5,9 +5,249 @@
     <description></description>
     <link>http://albuspensieve.github.io/</link>
     <atom:link href="http://albuspensieve.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 28 Dec 2023 23:27:53 -0500</pubDate>
-    <lastBuildDate>Thu, 28 Dec 2023 23:27:53 -0500</lastBuildDate>
+    <pubDate>Sat, 30 Dec 2023 13:17:58 -0500</pubDate>
+    <lastBuildDate>Sat, 30 Dec 2023 13:17:58 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>加拿大 EE FSW (2)：入池，申请到获批</title>
+        <description>&lt;p&gt;这篇主要介绍一下加拿大 EE FSW 入池，申请到获批的流程。&lt;/p&gt;
+
+&lt;p&gt;首先需要声明一下这篇文章只是记录了我们申请的流程和经验，并不提供法律意见～而且很多政策和要求都瞬息变幻，还是要以官方文件为准～如果自己DIY有一些心里没底的话可以考虑找移民顾问或者律师～&lt;/p&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#ee-fsw-是什么&quot; id=&quot;markdown-toc-ee-fsw-是什么&quot;&gt;EE FSW 是什么&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#入池&quot; id=&quot;markdown-toc-入池&quot;&gt;入池&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#了解自己的分数和捞人历史&quot; id=&quot;markdown-toc-了解自己的分数和捞人历史&quot;&gt;了解自己的分数和捞人历史&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#申请和等待&quot; id=&quot;markdown-toc-申请和等待&quot;&gt;申请和等待&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#材料准备&quot; id=&quot;markdown-toc-材料准备&quot;&gt;材料准备&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#无犯罪证明-police-certificates&quot; id=&quot;markdown-toc-无犯罪证明-police-certificates&quot;&gt;无犯罪证明 (Police Certificates)&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#工作证明-proof-of-work-experience&quot; id=&quot;markdown-toc-工作证明-proof-of-work-experience&quot;&gt;工作证明 (Proof of Work Experience)&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#资金证明&quot; id=&quot;markdown-toc-资金证明&quot;&gt;资金证明&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#common-law&quot; id=&quot;markdown-toc-common-law&quot;&gt;Common Law&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#体检&quot; id=&quot;markdown-toc-体检&quot;&gt;体检&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#打指纹&quot; id=&quot;markdown-toc-打指纹&quot;&gt;打指纹&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#等待追踪申请&quot; id=&quot;markdown-toc-等待追踪申请&quot;&gt;等待：追踪申请&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#贴签&quot; id=&quot;markdown-toc-贴签&quot;&gt;贴签&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#申请时间线&quot; id=&quot;markdown-toc-申请时间线&quot;&gt;申请时间线&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#写在最后越来越卷的-ee&quot; id=&quot;markdown-toc-写在最后越来越卷的-ee&quot;&gt;写在最后：越来越卷的 EE？&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#其他资料&quot; id=&quot;markdown-toc-其他资料&quot;&gt;其他资料&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;ee-fsw-是什么&quot;&gt;EE FSW 是什么&lt;/h1&gt;
+&lt;p&gt;EE 的全称是 &lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html&quot;&gt;Express Entry&lt;/a&gt; （快速通道），包含若干项目，我们使用的项目是 FSW (Foreign Skilled Workers)联邦技术移民。EE 实行的是打分制，根据申请人的条件（年龄，工作经验，学历，语言成绩等）折算成分数。移民局会不定期进行“捞人”，比如这周捞3600人，就把池子中的候选人分数由高到低排，前3600人会收到邀请，正式开启申请永久居民的流程。&lt;/p&gt;
+
+&lt;h1 id=&quot;入池&quot;&gt;入池&lt;/h1&gt;
+&lt;p&gt;EE FSW 的第一步是入池，也就是获得一个分数。入池前需要准备好：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;英语考试。如前文所说，加拿大 EE 需要英语成绩，官方接受雅思 G 类和思培两种考试，需要是三年以内的成绩。对雅思 G 类准备感兴趣的可以移步上一篇&lt;a href=&quot;&quot;&gt;博文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;学历认证。学历认证只需要认证最高学历～对我来说就是认证博士学位。美国学校的学历认证还是比较快的，我选择的是 WES 的认证，只需要在网站上提交申请，然后让学校把成绩单在线递送给 WES即可。网上当时说要 35 天，但实际上我3月29号提交申请，4月6号就认证完成了～不过还是建议尽早认证～&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;了解自己的分数和捞人历史&quot;&gt;了解自己的分数和捞人历史&lt;/h2&gt;
+&lt;p&gt;入池前还可以利用&lt;a href=&quot;https://ircc.canada.ca/english/immigrate/skilled/crs-tool.asp&quot;&gt;官方的打分计算器&lt;/a&gt;估计一下自己的分数，也可以参考知道自己语言需要多少分之类。下图提供了大部分 FSW 申请人对应条件的分数：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/canada_ee/ee_score.jpeg&quot; alt=&quot;drawing&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;IRCC 捞人的历史（捞的人数和分数线）可以在这个&lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile/rounds-invitations.html&quot;&gt;网站&lt;/a&gt;上看到。
+我们当时两个人一起是 498 分，被捞那批的分数线是 488 分。&lt;/p&gt;
+
+&lt;h1 id=&quot;申请和等待&quot;&gt;申请和等待&lt;/h1&gt;
+&lt;p&gt;收到了 IRCC 发的 Invitation to Apply (ITA) 邮件之后就可以开始申请流程了。我们用的是 GCKey portal 申请，首先要填写各种个人信息，全部填好之后系统会根据填的信息生成一份文件 checklist。把这些文件按照 checklist 准备好提交后即可。下面列一些比较常见，花时间或者令人困惑的材料准备。&lt;/p&gt;
+
+&lt;h2 id=&quot;材料准备&quot;&gt;材料准备&lt;/h2&gt;
+
+&lt;h3 id=&quot;无犯罪证明-police-certificates&quot;&gt;无犯罪证明 (Police Certificates)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;中国&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;中国的无犯罪证明需要公证件，公证的翻译件。感谢我给力的老妈办下了中国的无犯罪证明。具体流程我个人不是非常清楚，大约就是先去地方派出所开具无犯罪证明，再拿着这份无犯罪证明去公证处进行翻译和公证。各地的办事方式，需要的材料等等大约都不大相同，需要咨询当地的派出所。&lt;/p&gt;
+
+&lt;p&gt;官方介绍：&lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how/china.html&quot;&gt;How to get a police certificate – China&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;美国&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;美国的无犯罪证明是由 FBI 开具的，可以在线申请非常方便。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;填表&lt;/li&gt;
+  &lt;li&gt;打指纹：打指纹可能是美国无犯罪证明申请最坑的地方。需要去 USPS 打指纹，打一次 $50。我去了公司附近的一家 USPS，但是那个机器很难用，不论我咋打我的指纹都没有办法被识别为合格。还好 USPS 的小哥挺有耐心的，陪我搞了半个多小时，试了各种方法，但最后还是只有一个指头被机器认可了。最后只好决定就这样试试看了。&lt;/li&gt;
+  &lt;li&gt;收到报告：好在指纹在机器上识别为不合格并没有太大问题，打完指纹回家的路上我就收到了拌好的无犯罪证明邮件的 pdf 文档～这个效率在美国真的是很令人惊讶了！&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;官方介绍：&lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how/united-states.html&quot;&gt;How to get a police certificate: United States&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;香港&lt;/strong&gt;
+因为 R 兄曾在香港念书，所以他需要办香港的无犯罪证明。比起香港的无犯罪证明，前面两个那可是太 easy了～&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;获得 Request Letter：获得 Request Letter 的方式就是在 EE 文件 checklist 的香港无犯罪证明那一栏提交一封信，告知 IRCC 需要 Request Letter&lt;/li&gt;
+  &lt;li&gt;采集纸质指纹：香港无犯罪证明同样需要指纹，然而必须是纸质版。我们从网上买了美国的官方印指纹的纸，然后去警察局打指纹。然而香港警署需要指纹上有警察局的公章，但是我们 town 的警察局根本就没有公章这个东西。最后 R 兄跑了附近好几个 town 终于打上了指纹并盖上了公章 😮‍💨 非常坑人&lt;/li&gt;
+  &lt;li&gt;寄送材料：材料包括申请表，同意书，个人资料，香港身份证或者有效履行证件影印本，IRCC Request Letter，纸质指纹，一张 250 港币的支票&lt;/li&gt;
+  &lt;li&gt;等待奇迹：为啥说是等待奇迹呢，因为香港的无犯罪证明是由香港警署直接发送给加拿大移民局的。所以我们也不知道办好没，发了没，加拿大方面收到了没等等，完全是一片黑暗。不过比较好的是可以通过邮件和香港警署交流，询问文件有没有送达，当前的状态等。九月初的一天，我们突然就发现 tracker 上显示收到了 police certificate，也并没有说是哪里的，我们就猜测是香港的了 😂&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;官方介绍：&lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how/hong-kong.html&quot;&gt;How to get a police certificate – Hong Kong Special Administrative Region&lt;/a&gt;
+&lt;a href=&quot;https://www.police.gov.hk/ppp_sc/11_useful_info/cert_no_crime_overseas.html&quot;&gt;无犯罪纪录证明书现身处海外申请人须知&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;最后分享一下香港无犯罪证明时间线：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;8.11 寄出&lt;/li&gt;
+  &lt;li&gt;8.21 包裹到达香港&lt;/li&gt;
+  &lt;li&gt;8.23 香港警署发邮件告知支票上没有签名 😂&lt;/li&gt;
+  &lt;li&gt;8.24 请朋友帮忙当场递交新的支票&lt;/li&gt;
+  &lt;li&gt;8.25 开始处理&lt;/li&gt;
+  &lt;li&gt;9.7 递交给加拿大方面&lt;/li&gt;
+  &lt;li&gt;9.11 Tracker 上显示收到 police certificate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;工作证明-proof-of-work-experience&quot;&gt;工作证明 (Proof of Work Experience)&lt;/h3&gt;
+&lt;p&gt;官方关于工作证明的材料要求可以在&lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/express-entry/applications-received-on-after-january-1-2016-completeness-check.html&quot;&gt;这里&lt;/a&gt;找到
+，摘录如下：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;a reference or experience letter from the employer, which
+should be an official document printed on company letterhead (must include the applicant’s name, the company’s contact information [address, telephone number and email address], and the name, title and signature of the immediate supervisor or personnel officer at the company)
+should indicate all positions held while employed at the company and must include the following details: job title, duties and responsibilities, job status (if current job), dates worked for the company, number of work hours per week and annual salary plus benefits; and&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;然而现实情况是很多公司的 Employment Verification Letter (EVL) 是固定格式的，并不一定可以提供 IRCC 所需要的全部信息。我个人的操作如下：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;联系公司 HR 部门，说明需要一封 EVL，需要包含 job title, duties, dates and number of work hours, salary plus benefits&lt;/li&gt;
+  &lt;li&gt;前司的 HR 请我自己草拟一封信，说明职位的 job duties；之后他们填上其他的信息（工作时长，时间，年薪，联系方式等），加上 letterhead 发给了我&lt;/li&gt;
+  &lt;li&gt;现司的 HR 告诉我公司的 EVL 是固定模板不可以更改，于是我拿了一份公司开具的有公司抬头的 EVL&lt;/li&gt;
+  &lt;li&gt;由于现司的 EVL 不含有 IRCC 所有信息，我草拟了一封 Reference Letter，信里面包含了 IRCC 需要的所有信息（重点是job duties），并请 manager 签字。由于这封信无法有公司抬头，所以包含了 manager 的联系方式。&lt;/li&gt;
+  &lt;li&gt;由于我博士期间是 Research Assistant 也算做工作经验，所以联系了导师要 EVL，导师让我草拟 job duties 的部分，其他的信息和抬头由实验室提供。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;资金证明&quot;&gt;资金证明&lt;/h3&gt;
+&lt;p&gt;官方关于资金证明的材料要求可以在&lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html&quot;&gt;这里&lt;/a&gt;找到，摘录如下：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The applicant should provide an official letter(s) from one or more financial institutions that lists all current bank and investment accounts as well as outstanding debts, such as credit card debts and loans.
+The letter(s) must be printed on the letterhead of the financial institution and must include the applicant’s name, the contact information of the financial institution (address, telephone number and email address), the account numbers, the date each account was opened and the current balance of each account as well as the average balance for the past six months.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;IRCC 要求移民拥有一定数额的财产以便安家，而资金证明就是证明你拥有要求的财产数额。目前的要求是 1 个人需要有 $13,757 加元，两个人的话需要 $17,127 加元。&lt;/p&gt;
+
+&lt;p&gt;文件要求金融机构开具的信要包含很多信息，而事实情况是很多金融机构有固定模板，无法含有所有要求的信息，有的甚至不开这样的信。我联系了我有帐户的所有银行和金融机构，尽力地要到了类似的信，要不到的就只得作罢了。&lt;/p&gt;
+
+&lt;p&gt;在准备材料的过程中我还看到有的人说并不需要所有账户，虽然要求中的确说 all current bank and investment accounts。有的人说只要你的账户里的钱大于要求数额即可。另外还有人说信用卡，房贷车贷不需要 disclose。的确如果包含房贷的话，我就不可能有要求的财产数额了 😂 另一个问题是如果把所有的金融账户信息（包括 checking，saving，信用卡，401k，股票等等）都包含进来，文件会非常大超过文件大小限制。我最终的操作是：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Disclose 了我的主要 saving 和 checking 账户&lt;/li&gt;
+  &lt;li&gt;对于每个账户，我包含了银行开的资金证明信（如果有的话，尽量包含IRCC要求的信息）和半年的 statements&lt;/li&gt;
+  &lt;li&gt;文件第一页为一封解释信，解释了：无法获得 IRCC 要求的包含所有需要信息的 proof of funds letter；每个账户的信息汇总：开户日期，当前金额（美元加元），六个月的平均金额（美元加元），以及对应的附件页码&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;common-law&quot;&gt;Common Law&lt;/h3&gt;
+&lt;p&gt;加拿大比较好的一点就是承认 Common Law 关系，不需要法定结婚即可一起申请移民～不过 Common Law 需要的文件在 IRCC 官网上比较模糊，他们只提到了需要证明两个人持续共居时间需要超过一年（见&lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/non-economic-classes/family-class-determining-spouse/assessing-common.html#&quot;&gt;链接&lt;/a&gt;）。可以证明这点的文件可以有很多，&lt;a href=&quot;https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=347&amp;amp;top=14&quot;&gt;这个网页&lt;/a&gt;上提供了一些思路。这篇里就介绍一下我们 Common Law 准备的材料&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;IMM 5409E：这个表格是必须的～在网上下载填好打印之后需要公证。我们是去附近的 BoA 找的公证服务&lt;/li&gt;
+  &lt;li&gt;房契和房贷文件: 我们在申请时正好买房刚刚超过一年。如果是租房的话最好是有两个人都有名字的租房合同，由于我们之前租房是和室友合租并没有这样的文件所以就没有提供。&lt;/li&gt;
+  &lt;li&gt;保险受益人含有对方：主要就是 401k 还有人寿保险的受益人～&lt;/li&gt;
+  &lt;li&gt;两个人的驾照有共同地址&lt;/li&gt;
+  &lt;li&gt;一年的电费和气费账单（分别是两个人的名字，但是是一样的地址）&lt;/li&gt;
+  &lt;li&gt;Love Story：这个材料官方并没有要求提供，但是在网上看到很多人都提供了（甚至是婚姻关系的都有提供的）。保守起见我们也写了一个。顾名思义这个材料就是声情并茂的讲述俩人咋认识的咋在一块的，关键是要图文并茂，最好有很多合照以及和家人朋友一起的合照～两个人需要各写一份～最后我的文件有15页，对象写了10页。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;体检&quot;&gt;体检&lt;/h3&gt;
+&lt;p&gt;体检必须去官方&lt;a href=&quot;https://secure.cic.gc.ca/PanelPhysicianMedecinDesigne/en/Home&quot;&gt;指定的地方&lt;/a&gt;进行体检。麻省整个省只有一家机构可以做，一个人500刀。我们5月25号预约的，预约到了6月13号，6月21号收到了 information sheet，也就是上传的文件。体检其实没干啥，抽了点血，拍了个X光，然后唠了唠嗑就没了……这 500 块真的是太好赚了……&lt;/p&gt;
+
+&lt;p&gt;听说现在不需要 upfront medical exam 了，变成了先给 IRCC 提交申请，IRCC通知去做体检的时候再去。&lt;/p&gt;
+
+&lt;h3 id=&quot;打指纹&quot;&gt;打指纹&lt;/h3&gt;
+&lt;p&gt;打指纹是在提交申请后进行的操作。提交申请后，IRCC会发送一封指纹信，要求我们在30天内去打指纹。在美国是去 USCIS 打指纹，然而麻省的USCIS太过火爆，根本约不到一个月内的appointment，我们最后去了 New Hampshire 打指纹，但就是这样也只约到了 8月23号的😳&lt;/p&gt;
+
+&lt;h1 id=&quot;等待追踪申请&quot;&gt;等待：追踪申请&lt;/h1&gt;
+&lt;p&gt;接下来便是漫长的等待过程～等待中有两个方式可以追踪申请的情况，一个是通过申请时使用的 GCKey portal，一个是使用 tracker～ tracker 需要在获得了 UCI 号之后注册。我们的体验是 tracker 更新的内容更多～&lt;/p&gt;
+
+&lt;p&gt;基于我们的背景，本来以为我们一定会被安全调查的，但是很幸运的并没有。听说如果在美国待的久的话安全调查的几率会有所降低，当然这只是道听途说不知道真的假的。但是还是挺幸运没有进入安调黑洞的～&lt;/p&gt;
+
+&lt;p&gt;不过我们的 tracker 在九月初就已经四个项目都绿了（通过），但是我们直到11月才收到 COPR number（Confirmation of Permenant Residence, 也就是申请通过获得永居资格）。我们猜测 IRCC 会攒一波人，攒够人数了再一起发 COPR，因为大约同时间有很多群友都收到了 COPR 的信息～&lt;/p&gt;
+
+&lt;h1 id=&quot;贴签&quot;&gt;贴签&lt;/h1&gt;
+&lt;p&gt;之前听说的案例都是直接把需要的材料直接寄给加拿大的，不过我们收到的 COPR 的信告知我们需要把所有材料寄给加拿大签证中心。在美国的加拿大签证中心有两家，一家在纽约，一家在洛杉矶。我们本来还想直接肉身去纽约递交材料的，不过最后看了看纽约的车票和住宿太贵了就放弃了😂&lt;/p&gt;
+
+&lt;p&gt;寄材料需要通过 VFS Global 的网站，具体怎么操作可以参考这个&lt;a href=&quot;https://visa.vfsglobal.com/usa/en/can/&quot;&gt;网站&lt;/a&gt;。首先需要在这个&lt;a href=&quot;https://www.vfsglobal.ca/PostalAppointment/&quot;&gt;网站&lt;/a&gt;上进行账户注册，注册之后购买 2 Way Courier Service。&lt;/p&gt;
+
+&lt;p&gt;需要寄过去的材料请依据 IRCC 提供的 COPR 信和这个&lt;a href=&quot;https://visa.vfsglobal.com/usa/en/can/&quot;&gt;网站&lt;/a&gt;上的要求。&lt;/p&gt;
+
+&lt;p&gt;理论上我们两个人的材料需要分两个包裹寄，但是我们邮件问了 VFS Global 之后他们说可以一起寄过去，但是需要加一个 return label 因为他们会寄两个包裹回来。所以我们去 UPS 又买了一个 return label 附在了材料里。最终我们寄了：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;护照&lt;/li&gt;
+  &lt;li&gt;IRCC 的 passport request letter&lt;/li&gt;
+  &lt;li&gt;照片（背面需要有照相馆地址和拍照日期）&lt;/li&gt;
+  &lt;li&gt;TT Service Consent Form&lt;/li&gt;
+  &lt;li&gt;Transmission fee 支票&lt;/li&gt;
+  &lt;li&gt;2 Way Courier Service Confirmation letter&lt;/li&gt;
+  &lt;li&gt;一个 return label&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;护照贴好签寄回来的那一周我们还在度假，于是我们错过了 UPS 的第一次投递。理论上他们应该再次投递，结果他们说寄到了附近的一家 UPS store（后来才知道这是不符合流程的）。结果我们回来的第二天去那家 UPS store，说只有 R 兄的文件，我的不在那里……而且那个 UPS store 的老白男态度非常之差，令人发指。我当时就非常慌是不是寄丢了……周一我就疯狂打 UPS 电话，R 兄还去了 UPS center，结果他们说并不知道在哪里，让再等一天，晚上大概会有更新。好在晚上突然护照就到了，也许是第一次投递完他们忘在车里了之类。还好最后是送到了的！不然真的不知道咋办……&lt;/p&gt;
+
+&lt;h1 id=&quot;申请时间线&quot;&gt;申请时间线&lt;/h1&gt;
+&lt;p&gt;最后分享一下我们的申请时间线以供参考：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;5.6 IELTS&lt;/li&gt;
+  &lt;li&gt;5.10 收到雅思成绩&lt;/li&gt;
+  &lt;li&gt;5.11 入池&lt;/li&gt;
+  &lt;li&gt;5.24 ITA&lt;/li&gt;
+  &lt;li&gt;7.1 递交申请，收到 AOR (Acknowledgment of Receipt)&lt;/li&gt;
+  &lt;li&gt;8.8 MEP (Medicals passed), IRCC 通过 GCKey portal 发送了 HK police certificate request letter, Biometrics letter&lt;/li&gt;
+  &lt;li&gt;8.23 Get biometrics done&lt;/li&gt;
+  &lt;li&gt;8.31 tracker background verification done&lt;/li&gt;
+  &lt;li&gt;9.11 Received (HK) police certificate, tracker all green&lt;/li&gt;
+  &lt;li&gt;11.8 Got COPR number in the tracker&lt;/li&gt;
+  &lt;li&gt;11.16 COPR Email&lt;/li&gt;
+  &lt;li&gt;11.20 材料送到纽约的加拿大签证中心&lt;/li&gt;
+  &lt;li&gt;11.28 IRCC email visa affixed&lt;/li&gt;
+  &lt;li&gt;11.30 VFS received and couriered&lt;/li&gt;
+  &lt;li&gt;12.4 拿到护照&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;写在最后越来越卷的-ee&quot;&gt;写在最后：越来越卷的 EE？&lt;/h1&gt;
+
+&lt;p&gt;2023 年捞人的分数也逐渐水涨船高了，我们很幸运地有点赶上末班车的感觉，之后的分数线节节攀升，我们的 498 当年还算高分都排不上了。另外在我们被捞后不久，EE 开启了新的 &lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile/rounds-invitations/category-based-selection.html&quot;&gt;category based draw&lt;/a&gt;，即根据职业类别进行捞人。Category Based 目前有六个类别，其中和我身边人关系比较近的大约是 STEM 类别。然而 category based 实行以来只捞过两次 STEM 类别。&lt;/p&gt;
+
+&lt;p&gt;如果现在还想走加拿大的 EE FSW 项目，以及背景是 STEM 相关的话，可以考虑走的是安大略省省提名项目（OINP）。这个安省提名项目针对符合邀请的申请人直接在 EE 中加 600 分，基本上获得了这个被 EE 捞就只是时间问题了。而且申请非常简单，在EE入池的时候钩上对安省感兴趣即可。不过这个项目对居住地有要求（要求住在安省）。&lt;/p&gt;
+
+&lt;p&gt;由于最近也捞了不少法语项目，而且法语加分也比较多，也有很多人开始学习法语来提高自己的背景。感觉也是有一定道理的，但是由于我个人没有尝试过没有办法评估难度。&lt;/p&gt;
+
+&lt;h1 id=&quot;其他资料&quot;&gt;其他资料&lt;/h1&gt;
+&lt;p&gt;因为我们是 DIY 申请，更要感谢各种网友提供的无私的帮助～&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;咪尾酱最近也写了她的EE 申请之路，&lt;a href=&quot;https://meow.meowshiba.com/ee-fsw-common-law-application/&quot;&gt;移步这里&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://discord.com/invite/k77VaQHFkc&quot;&gt;加拿大 Express Entry Discord server&lt;/a&gt;：这个 server 集合了很多想要，正在和已经申请了加拿大 EE 项目的人，非常活跃～可以看到很多人的经验～&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;另外分享两位加拿大移民顾问信息，虽然我们没有找她们付费服务，但是她们有提供很多关于加拿大的信息，个人认为很有帮助：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;大橙：附上她的&lt;a href=&quot;https://www.douban.com/people/161366179/?_i=3821044All2iNJ&quot;&gt;豆瓣主页&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Joytitude：微信Joytitude，公众号JoytitudeCA，加拿大相关信息请见她豆瓣主页&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;我们的下一步是在 COPR 签证过期之前登陆加拿大激活永久居民身份并办理枫叶卡。有机会再写一下关于登陆的事宜吧～&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://albuspensieve.github.io/canada</link>
+        <guid isPermaLink="true">http://albuspensieve.github.io/canada</guid>
+        
+        <category>Canada</category>
+        
+        
+        <category>Immigration</category>
+        
+      </item>
     
       <item>
         <title>加拿大 EE FSW (1)：G类雅思备考</title>
@@ -1043,96 +1283,6 @@
         <category>talkshow</category>
         
         <category>book</category>
-        
-        
-        <category>weeklyDigest2023</category>
-        
-      </item>
-    
-      <item>
-        <title>Albus 的 Digest (2023.4.4-2023.4.23)</title>
-        <description>&lt;p&gt;春天快来啦～&lt;/p&gt;
-
-&lt;p&gt;进入了四月，春天的气息也逐渐变浓了。窗外的两棵大树前两天还是枯枝败叶，两天后便已郁郁葱葱～这是感慨大自然生机的时节！&lt;/p&gt;
-
-&lt;h2 id=&quot;生活&quot;&gt;生活&lt;/h2&gt;
-
-&lt;h3 id=&quot;newport-mansion-tours&quot;&gt;Newport Mansion Tours&lt;/h3&gt;
-&lt;p&gt;4月初的周末去了 Newport 的 Mansion Tours～不过这回的重点不是那些豪宅的光鲜亮丽，而是他们背后的故事。参加的两个 tour 分别是 Servant Life Tour at The Elms 和 Beneath The Breakers～&lt;/p&gt;
-
-&lt;p&gt;Servant Life Tour 主要介绍的是维持这些豪宅背后的人的生活。The Elms 的楼顶是 Servants Quarter，其实条件还不错，房间都挺大（比我之前住的公寓房间大🤣）。不过他们的生活真的非常辛苦，基本一天工作十几个小时还没有假期。讲解员还介绍了一开始主要都是由移民来做这些工作，不过后来随着 gilded age 逐渐没落，失业率增加，美国当地人也开始加入。这个 tour 最有意思的其实是在地下参观他们的基建设施哈哈哈～这个巨大的房子的地下室感觉跟小型工厂似的，很粗的管道，巨大的锅炉。那时候主要是烧煤，这家的主人很不喜欢煤炭弄得到处都是黑的，所以专门挖了一条隧道运煤！这样煤送到的时候就可以从街边的一个入口倒入煤车，然后由隧道把煤拉进来。不得不说有钱人真的是……而且这么多effort只是为了他们夏天来住几周。。。&lt;/p&gt;
-
-&lt;p&gt;如果说上一个 Tour 的地下室已经很让人惊讶了，那么 Beneath the Breakers 这个专攻地下室的 tour 几乎每分钟都在惊异中。The Breakers 原本的木质结构房屋在一场锅炉爆炸中完全烧毁，于是在建新的房子的时候，他们选择了把锅炉远离房子主体，建在了 caretaker’s cottage 下方。讲解员介绍了为了这座房子的 heating，工人们两班倒不眠不休的往锅炉里添煤，而且得忍受非常炎热的环境。因为距离很远，他们需要修一条很长的隧道让管线通过，同时在锅炉房工作的人也可以到房屋主体地下室进行工作和维修。在走这段长长的隧道中间，讲解员给我们介绍了建造 The Breakers 的惊人速度。这么大的豪宅只花了两年时间，只是因为女主人之前约好了 1895 年八月的一天要举办一个聚会，所以房子必须在那之前建成。为了这样的速度，整个房子的建造过程有点类似于乐高，每一块石料都是提前切好的，有些房间甚至是在别的地方搭好了基本框架再运过来组装。另一个令人瞠目结舌的 feature 是地下室顶上密密麻麻的电线。当时，电还是个新玩意，爱迪生和特斯拉还在吵是用交流电还是直流电，这个房子就有了自己的电力系统，用的是爱迪生建的发电厂提供的电。房子里还保留了当时的 electrical panel，而且直到 1990 年整套电力系统都还在使用。总之这个 tour 真的非常丰富，还介绍了比如 heating system，自来水系统，酒窖，冰箱等等，应接不暇。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/weekly2023/weekly07-1.jpg&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;isabella-gardner-museum&quot;&gt;Isabella Gardner Museum&lt;/h3&gt;
-&lt;p&gt;上周终于看到了 Gardner Museum 的悬挂旱金莲！真的太漂亮了，和有点斑驳的墙面相映成趣。顺便还了解了一下这几乎两层楼高的旱金莲是怎么长出来的～六月份，园丁种下旱金莲种子；七月，超过100株旱金莲会被移栽到花盆里，当它们开始开花的时候，所有花不是那种深橘色的都会被淘汰掉😳，剩下的会再移栽到更大的盆里；九月和十月，旱金莲逐渐开始生长出藤蔓，园丁不断修剪选择出最有潜力的藤蔓们；入冬，园丁开始让旱金莲爬藤，为了长出超过6米的藤蔓，旱金莲会爬过一整个温室的屋顶～次年三月，这些有着长长头发的旱金莲被送到博物馆，因为他们头发太长需要好几个园丁托着送到三楼，然后再慢慢把他们放下去～感慨人类真的是一个神奇的物种，会为了好看花费这么多功夫哈哈哈哈～&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/weekly2023/weekly07-2.jpg&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;书到灯塔去&quot;&gt;书：&lt;a href=&quot;https://book.douban.com/subject/3402999/&quot;&gt;《到灯塔去》&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;费了好大劲终于把这本书读完了～感觉读伍尔夫的书可能还是需要心特别静，因为故事情节不强，描写又是事无巨细的那种，很容易就走神了。就像听的看理想节目《女作家》里张悦然说的那样，“阅读 《到灯塔去》的困难，在于那些刚读过的句子，就像从手心流走的细沙，无法在我们的头脑中聚拢累加。”虽然直到后期才终于可以 appreciate 这种流动的情绪，但的确回顾起来还是一段不错的阅读体验～这个小说最大的特点是它的结构，第一部分篇幅很长，但是其实时间跨度只有一两天，然后第二部分篇幅很短，但是时间跨度是好多年，再到第三部分，又回到了第一部分的那种非常细节的描述，但写的事情也就只是一天的时间。个人很喜欢张悦然的比喻，第二部分就像一个细细长长的管子，把前后两个部分连接起来。前后两个部分仿佛是拿着显微镜在描写，而时间跨度最长的第二部分，却像是在飞机上俯瞰城市一样，一下就过去了。&lt;/p&gt;
-
-&lt;p&gt;与其相对应的是，第一部分可以概括为旧时代的欢乐，是非常日常琐碎的，在经典小说看来甚至很多东西根本不值一提。第二部分是昔日热闹的房子由于人世变迁逐渐破败，美丽的女主人也死去了，但是只是非常简短的，甚至通过暗示的方式告诉读者发生了什么，这样重要的情节如果是在经典小说中，一定是故事的重中之重，然而伍尔夫的描述中，人都退场了，我们跟着风全方位的打量这座破败的房子，感慨人生的无常。第三部分描写的是多年之后，终于又有一些人回来这所房子，打算去当年没有去成的灯塔，虽然还是日常琐碎，但是这一次又有很多无法言说的痛苦隐藏背后。今天早上回味这本小说，感觉这样“颠倒长短”，“颠倒主次”的写法也许和人的记忆有些许应和之处。有时候我们不知道为什么会记住一些非常小，感觉没有什么意义的细节，然而对于某些大事件，尤其是比较痛苦的事，记忆中很多细节都被抹去了，最后只剩下了一个整体的感觉，并讲不出什么。&lt;/p&gt;
-
-&lt;p&gt;除了总体的结构以外，小说里也有很多有意思的观察，吐槽地也是很一针见血～比如拉姆齐先生喜欢向人，尤其是女性索取同情，甚至利用这种手段成为了孩子口中的“暴君”。另外他一方面非常依赖于女性对他的同情，但是一转头又觉得女性没有头脑，这种矛盾都被伍尔夫剖析得一清二楚。里面画家莉莉的形象也据说是伍尔夫自己的投射，面对男性说“女性不该创作艺术”的质疑，还有创作的痛苦，大约都来自于她自己真实的经历。&lt;/p&gt;
-
-&lt;h2 id=&quot;书也许你该找个人聊聊&quot;&gt;书：&lt;a href=&quot;https://book.douban.com/subject/35481512/&quot;&gt;《也许你该找个人聊聊》&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;这本书可能是两年前特别火，当时看到很多人推荐但都没看哈哈哈～这回是因为一位小伙伴提起，就找来看了一下～可能是因为上一本读的是《到灯塔去》，一下读到这么好读的书就很上瘾，两天就看完了。&lt;/p&gt;
-
-&lt;p&gt;这本书讲了作为一位心理治疗师的作者洛莉和几位来访者之间的故事，以及她自己接受另一位治疗师温德尔的治疗的故事。整本书有点随笔的那种感觉，从一件事说到另一件事，非常生活化，里面也穿插着一些心理学知识。另外，洛莉也分享了很多关于心理医生职业的故事，比如说作为心理医生自己怎么找心理医生，在外面遇到了来访者怎么办，不喜欢自己的来访者怎么办等等，从这些分享中我也对心理医生的日常生活有了更多的了解，还挺有意思的～&lt;/p&gt;
-
-&lt;p&gt;这本书可谓是哭点遍布，最让人感动的是随着洛莉和各位来访者的交流愈多，我们也更多的了解了他们的人生，即使是一眼看过去很讨厌的对象，也不禁生出一点点喜爱来，看到他们一丝丝的改变觉得非常欣喜，看到他们非常有勇气的行为也会心生敬佩。我感觉这就是谈话治疗的魅力了。萨特说“他人即地狱”，但人和人建立起的关系也可能是唯一的解药～在关系的建立中，双方共享自己作为人类的诸多困境，直面现实，同时也抛下成见，迎接新的可能性。&lt;/p&gt;
-
-&lt;p&gt;印象最深的来访者是朱莉，一位晚期癌症患者。她年纪轻轻，刚刚拿到教职，刚刚结婚，正准备迎接新生活，结果被确诊了癌症。面对这样的不幸，几乎没有人有经验，洛莉其实也只是陪着她，希望可以在最后的日子帮助她实现她想实现的。这些谈话在死神时钟面前虽然完全无力无用，但人的心理就是这么奇妙，朱莉最后的日子里做了很多尝试，作者也在和她的相处中获得了很多启示。&lt;/p&gt;
-
-&lt;p&gt;洛莉自己看心理医生的过程也是很有趣。可能大家都觉得心理医生有那么多知识，那么多实践经历，怎么还需要看心理医生。但每个人都有自己的局限性，心理医生也不例外。洛莉看心理医生的契机是自己被男朋友分手了，本以为只是需要一个短期治疗的她最终发现她真正的恐惧是面对死亡和衰老的恐惧，而被男朋友分手后的抑郁只是隐藏这些恐惧的表象。这样血淋淋的现实使作者意识到了自己想追求意义感而不是幸福，从而写了这本书。&lt;/p&gt;
-
-&lt;p&gt;当然看这本书的契机也很重要，经历了裁员之后感觉自己一直有一点提不起精神，为很多事情焦虑但是行动力很低，可能是行动力在之前的找工作期间消磨了不少吧哈哈哈～所以看这本书还是感受到了不少滋养和力量的。是不是很奇妙呢，有时候人都不需要进行面对面的对话，读书在一定程度上是在和作者进行async的对话，这种在头脑中和其他人的对话都可以起到一定的治疗效果。&lt;/p&gt;
-
-&lt;h2 id=&quot;书我能有什么坏心思呢&quot;&gt;书：&lt;a href=&quot;https://book.douban.com/subject/35632117/&quot;&gt;《我能有什么坏心思呢》&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;这本漫画书主角是各种鸟类，其中最有名的是那个去海边搞点薯条的海鸥～前面有的感觉有点无厘头，但是看到后面还有些感动～特别是下面这一幅漫画👇&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/weekly2023/bird.png&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;电影&quot;&gt;电影&lt;/h2&gt;
-&lt;h3 id=&quot;铃芽之旅&quot;&gt;&lt;a href=&quot;https://movie.douban.com/subject/35371261/&quot;&gt;《铃芽之旅》&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;因为之前期待很低感觉还不错～主题比较普世，经历过苦难但还在努力活着的人都一定有感触～另外觉得设定为地震是因为大虫，然后俩猫压制大虫，以及closer（不知道日文是啥）天天关门不让大虫出来的设定，好上古人类神话的感觉，还挺有趣，只是看了三次关门之后会感到略微无聊…最后去往生见小时候的自己那段，也太像哈利波特第三部了，但最后没明白为什么小的时候的铃芽还能在往生，那大的这个是分身？&lt;/p&gt;
-
-&lt;p&gt;个人最不喜欢爱情桥段，虽然椅子很萌很搞笑但是…why？why？最后就为成全他俩的爱情，追求自由的小白猫就只能回去了？的确可以说本来白猫就在那这是他的使命，但为什么souta变成keystone就不是使命了？感觉又陷入了主角最大，别人都为他们服务的窠臼。不过种草了 roadtrip歌单，感觉都是 city pop啊哈哈哈（对了，为什么又是日本五月天主题曲（逃逃逃&lt;/p&gt;
-
-&lt;h2 id=&quot;电视剧综艺&quot;&gt;电视剧/综艺&lt;/h2&gt;
-&lt;h3 id=&quot;十三邀许知远对话陈晓卿&quot;&gt;&lt;a href=&quot;https://movie.douban.com/subject/36253896/&quot;&gt;《十三邀：许知远对话陈晓卿》&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;这一期许知远采访了陈晓卿，我个人特别喜欢陈晓卿，他总是让我联想起我高中语文老师+我爸哈哈哈～而且他讲什么都觉得好好吃哈哈哈～看到他们的工作状态也挺有意思的，还讲了很多他关于美食文化的理解～还看到了他年轻时候拍的社会象的纪录片片段，原来他以前这么精瘦哈哈哈～另外看到总是给人一种满脑子大问题的许知远也对食物和菜场产生了兴趣，莫名有点欣慰（？&lt;/p&gt;
-
-&lt;iframe frameborder=&quot;0&quot; src=&quot;https://v.qq.com/txp/iframe/player.html?vid=f0046lo78x4&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;播客&quot;&gt;播客&lt;/h2&gt;
-&lt;h3 id=&quot;八分--李如一-x-梁文道纪念坂本龙一我们如何理解他的音乐&quot;&gt;&lt;a href=&quot;&quot;&gt;《八分 —— 李如一 x 梁文道：纪念坂本龙一，我们如何理解他的音乐》&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;好久没听到李如一的声音了～八分居然请到了他来一起纪念坂本龙一，节目里提到了很多关于YMO，坂本龙一自己还有日本音乐的内容，很丰富～&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.listennotes.com/podcasts/梁文道-八分/102-李如一梁文道纪念坂本龙一我们如何理解他的音乐-YQCy1a8gTJm/embed/&quot; height=&quot;180px&quot; width=&quot;100%&quot; style=&quot;width: 1px; min-width: 100%;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;quote&quot;&gt;Quote&lt;/h2&gt;
-&lt;p&gt;我们都害怕些什么呢？ 我们害怕受伤。我们害怕被羞辱。我们害怕失败，也害怕成功。我们害怕孤单，也害怕牵绊。我们害怕倾听内心的诉说。我们害怕不快乐，又害怕太快乐（在这些梦中，我们不可避免地会因为快乐而受到惩罚）。我们害怕得不到父母的认可，我们害怕接受自己真实的样子。我们害怕身体抱恙，也害怕天降横财。我们害怕自己心怀嫉妒，也害怕自己拥有太多。我们害怕希望变成失望。我们害怕改变，也害怕一成不变。我们害怕意外会发生在我们的孩子身上，或发生在我们的工作中。我们害怕失去控制权，又害怕拥有的权利。我们害怕生命的稍纵即逝，又害怕死后的无尽虚空。我们害怕在死后无法留下自己活过的痕迹。我们害怕对自己的生活负责。（《也许你该找个人聊聊》）&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;这周的 digest 就到这里啦～大家这周都看了/听了/学了什么好玩的东西呢？在评论里留言一起交流吧～&lt;/p&gt;
-</description>
-        <pubDate>Sat, 22 Apr 2023 00:00:00 -0400</pubDate>
-        <link>http://albuspensieve.github.io/2023weekly07</link>
-        <guid isPermaLink="true">http://albuspensieve.github.io/2023weekly07</guid>
-        
-        <category>museum</category>
-        
-        <category>book</category>
-        
-        <category>movie</category>
-        
-        <category>talkshow</category>
-        
-        <category>podcast</category>
         
         
         <category>weeklyDigest2023</category>
