@@ -10,7 +10,7 @@ date: 2024-03-27 15:30:59
 日常不务正业的社畜。Permanent Head Damage 😂
 
 ### 喜欢啥
-🎻 古典音乐学习者：欢迎关注我的古典音乐 channel
+🎻 古典音乐学习者：欢迎关注我的古典音乐 [telegram channel](https://t.me/exploreclassical)
 🎹 弹琴：constantly struggle with practicing regularly
 🧑🏻‍🎨 画画 + brush lettering：similar situation as piano practicing
 🏛 逛博物馆等文娱活动
