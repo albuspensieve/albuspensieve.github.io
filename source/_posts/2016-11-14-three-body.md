@@ -1,6 +1,6 @@
 ---
 title: 《三体全集》读后感
-categories: Book
+categories: 读书笔记
 date: 2016-11-14 13:51:23
 ---
 

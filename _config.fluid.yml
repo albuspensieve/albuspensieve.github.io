@@ -335,6 +335,10 @@ navbar:
     - { key: "图书馆", link: "https://dumbledorepensieve.notion.site/056b0a7375d545f48e04eb00ec23f3e4?v=f2e442cc450746c7995dd85b7553555e", icon: "iconfont icon-book" }
     - { key: "RSS", link: "https://albuspensieve.github.io/feed.xml", icon: "iconfont icon-rss" }
 
+banner_nav:
+  menu:
+    - { key: "最近怎样", link: "/recent/", icon: "iconfont icon-home-fill" }
+
 # 搜索功能，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件
 # Search feature, based on hexo-generator-search. If you have installed other search plugins, please disable this feature to avoid generating redundant index files
 search:
