@@ -4,8 +4,7 @@ categories: museum
 tag:
   - musuem
   - music
-image:
-  path: img/artInTune/thumbnail.png
+og_img: 2024/02/17/2024-02-17-ArtInTune/thumbnail.png
 toc: true
 date: 2024-02-17 13:51:23
 ---
