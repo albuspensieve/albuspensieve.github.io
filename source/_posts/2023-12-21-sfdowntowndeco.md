@@ -5,8 +5,7 @@ tag:
   - Bay Area
   - art
   - history
-image:
-  path: thumbnail.png
+og_img: 2023/12/21/2023-12-21-sfdowntowndeco/thumbnail.png
 date: 2023-12-21 13:51:23
 ---
 

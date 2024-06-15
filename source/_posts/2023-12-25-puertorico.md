@@ -3,8 +3,7 @@ title: 波多黎各游记
 categories: Travel
 tag:
   - nature
-image:
-  path: thumbnail.png
+og_img: 2023/12/25/2023-12-25-puertorico/thumbnail.png
 date: 2023-12-25 13:51:23
 ---
 
