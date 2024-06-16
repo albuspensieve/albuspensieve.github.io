@@ -1041,6 +1041,12 @@ links:
       link: "https://crescendomeow.wordpress.com",
       avatar: "https://crescendomeow.wordpress.com/wp-content/uploads/2021/10/cropped-faceu.png"
     }
+    - {
+      title: "AsyncX",
+      intro: "🌌 Per Aspera Ad Astra",
+      link: "https://blog.asyncx.top/",
+      avatar: "https://blog.asyncx.top/favicon.svg"
+    }
 
 
   # 当成员头像加载失败时，替换为指定图片
