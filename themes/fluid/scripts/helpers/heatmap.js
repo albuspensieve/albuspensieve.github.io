@@ -146,22 +146,31 @@ function postsChart (startMonth) {
       postsChart.resize();
     });
     postsChart.on('click', function(params) {
-    console.log(window.location.origin)
       const post = dataMap.get(params.data[0]);
       const link = window.location.origin + "/" + post.path;
       window.open(link, '_blank').focus();
 });
     document.body.addEventListener('click', function(e) {
         if (document.documentElement.getAttribute('data-user-color-scheme')==='dark') {
-            e.preventDefault();
+//            e.preventDefault();
             postsChart.dispose();
             postsChart = echarts.init(document.getElementById('posts-chart'), 'dark');
             postsChart.setOption(postsOption);
+            postsChart.on('click', function(params) {
+                  const post = dataMap.get(params.data[0]);
+                  const link = window.location.origin + "/" + post.path;
+                  window.open(link, '_blank').focus();
+            });
         } else {
-            e.preventDefault();
+//            e.preventDefault();
             postsChart.dispose();
             postsChart = echarts.init(document.getElementById('posts-chart'), 'light');
             postsChart.setOption(postsOption);
+            postsChart.on('click', function(params) {
+              const post = dataMap.get(params.data[0]);
+              const link = window.location.origin + "/" + post.path;
+              window.open(link, '_blank').focus();
+        });
         }
     });
   </script>`
