@@ -3,6 +3,9 @@ title: Nitwit! Blubber! Oddment! Tweak!
 layout: about
 date: 2024-03-27 15:30:59
 ---
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
+<div id="posts-chart" data-start="2021-01" style="border-radius: 8px; height: 190px; padding: 10px;"></div>
+
 ## About Albus's Pensieve
 欢迎进入 Albus's Pensieve —— 邓布利多的冥想盆。本博客主要记录社畜生活里的精神食粮，以及一些杂七杂八的『人生感悟』。此博客于2018年10月30日正式启用，迁移了之前博客[邓布利多的冥想盆](http://albus1993.lofter.com/)的部分文章。
 
