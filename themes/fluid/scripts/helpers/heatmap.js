@@ -48,8 +48,6 @@ function postsChart (startMonth) {
 
   return `
   <script id="postsChart" type="text/javascript">
-//    var textColor = document.documentElement.getAttribute('data-user-color-scheme') === 'light' ? '#9589a8' : '#d0d0d0'
-//    var color = document.documentElement.getAttribute('data-user-color-scheme') === 'light' ? '#4c4948' : '#d0d0d0'
     var postsChart = echarts.init(document.getElementById('posts-chart'), document.documentElement.getAttribute('data-user-color-scheme'));
     window.onresize = function() {
       postsChart.resize();
@@ -125,7 +123,7 @@ function postsChart (startMonth) {
             borderColor: '#fff',
         },
         yearLabel: { show: false },
-        // the splitline between months. set to transparent for now.
+        // the splitline between months
         splitLine: {
           lineStyle: {
             color: "#000",
@@ -152,7 +150,6 @@ function postsChart (startMonth) {
 });
     document.body.addEventListener('click', function(e) {
         if (document.documentElement.getAttribute('data-user-color-scheme')==='dark') {
-//            e.preventDefault();
             postsChart.dispose();
             postsChart = echarts.init(document.getElementById('posts-chart'), 'dark');
             postsChart.setOption(postsOption);
@@ -162,7 +159,6 @@ function postsChart (startMonth) {
                   window.open(link, '_blank').focus();
             });
         } else {
-//            e.preventDefault();
             postsChart.dispose();
             postsChart = echarts.init(document.getElementById('posts-chart'), 'light');
             postsChart.setOption(postsOption);
