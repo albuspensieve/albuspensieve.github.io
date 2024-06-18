@@ -10,7 +10,7 @@ hexo.extend.filter.register('after_render:html', function (locals) {
   if (post.length > 0) {
     if (post.length > 0 && $('#postsChart').length === 0) {
       if (post.attr('data-encode') === 'true') htmlEncode = true
-      post.after(postsChart(post.attr('data-start')))
+      post.after(postsChart())
     }
 
     if (htmlEncode) {
@@ -32,7 +32,7 @@ function getWordCount(contentString){
   return wordcount;
 };
 
-function postsChart (startMonth) {
+function postsChart () {
     const postArr = [];
     const dataArr = [];
     hexo.locals.get('posts').map(function (post) {

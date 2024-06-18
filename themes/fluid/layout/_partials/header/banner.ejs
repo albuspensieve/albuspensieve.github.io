@@ -27,13 +27,10 @@ var subtitle = page.subtitle || page.title
                 </li>
               <% }) %>
              <% for(const each of theme.banner_nav.menu || []) { %>
-                <% if (!each.submenu && !each.link) continue %>
-                <% var text = each.name || __(each.key + '.menu') || __(each.key + '.title') %>
-                <% if (text.indexOf('.menu') !== -1 || text.indexOf('.title') !== -1) {
-                    text = each.key
-                } %>
+                <% if (!each.link) continue %>
+                <% var text = each.key %>
                 <li>
-              <a class="nav-link" style="color: white" href="<%= url_for(each.link) %>" target="<%= each.target || '_self' %>">
+              <a class="nav-link" style="color: white" href="<%= url_for(each.link) %>">
                 <%- each.icon ? '<i class="' + each.icon + '"></i>' : '' %>
                 <span><%- text %></span>
               </a>
