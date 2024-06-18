@@ -2,7 +2,6 @@
 title: 博客重装修，单车变摩托（1）：Jekyll 再见，Hexo 你好
 date: 2024-06-17 15:46:35
 tags: coding
-og_img: 2024/06/17/2024-06-17-blogfurnish/thumbnail.png
 category: 博客装修
 ---
 
