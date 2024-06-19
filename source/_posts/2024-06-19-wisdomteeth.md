@@ -1,5 +1,6 @@
 ---
 title: 这份「智慧」我无福消受：拔智齿小记
+date: 2024-06-19 11:27:35
 tags: health
 og_img: 2024/06/19/2024-06-19-wisdomteeth/thumbnail.png
 categories: 生活
@@ -18,7 +19,7 @@ Anyway，医生看了我的牙片说我的下面俩智齿都横着长的，都�
 
 <figure>
 <img src="tooth.png" width="30%"/>
-<figcaption>牙片局部，躺到的智齿🫠</figcaption>
+<figcaption>牙片局部，躺倒的智齿🫠</figcaption>
 </figure>
 
 # 手术当天
