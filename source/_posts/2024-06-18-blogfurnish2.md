@@ -22,7 +22,7 @@ category: 博客装修
 在[椒盐豆豉](https://blog.douchi.space)的博客上看到了这个「随便看看」功能，觉得很有意思，感觉也可以方便自己回顾一下之前的博客文章～「随机游走」的核心就是随机的抽一个博客文章出来，在 hexo 的 ejs 里可以使用 `site.posts.random().limit(1)` 随机摇一篇文章出来。
 
 ## 添加入口
-接下来的任务就是添加「最近咋样」和「随机游走」的入口。我想把它们放在 banner 的大图上，每一个页面都可以 access，类似于一个耳机导航栏的感觉。在源码中找了半天发现 banner 的配置主要是在 `fluid/layout/_partial/header/banner.ejs`里。因为实现的是一个非常类似于 navigation bar 的功能，于是我对着 `fluid/layout/_partial/header/navigation.ejs` 有样学样 🤣
+接下来的任务就是添加「最近咋样」和「随机游走」的入口。我想把它们放在 banner 的大图上，每一个页面都可以 access，类似于一个二级导航栏的感觉。在源码中找了半天发现 banner 的配置主要是在 `fluid/layout/_partial/header/banner.ejs`里。因为实现的是一个非常类似于 navigation bar 的功能，于是我对着 `fluid/layout/_partial/header/navigation.ejs` 有样学样 🤣
 
 navigation 的主要结构就是一个 `<ul>` 里面放着很多 `<li>`, 第一个 「随机游走的」`<li>` 的代码如下，应该还是比较好理解的，就是摇出一个随机的 post 之后获取它的 url 放在 `<a>` 里，再找一个自己喜欢的 font awesome icon 放在 `<i>` 里，最后放上「随机游走」四个大字。
 
@@ -165,17 +165,17 @@ var dataPosts = JSON.stringify(postArr)
 ```
 
 ### 使用 Echarts 画图
-Echarts 的部分我基本上是照抄了椒盐豆豉老师的配置～唯一的不同是椒老师是直接在build 一个 `dataMap`，这样根据每个日期都可以找到当天发布的文章信息，我一开始也这么做，结果发现这个玩意没法被传到要被 return 的`html` string里，于是我选择了在这个 `html` string里再根据 `dataPosts` 来创建 `dataMap`
+Echarts 的部分我基本上是照抄了椒盐豆豉老师的配置～唯一的不同是椒老师是直接在外面 build 一个 `dataMap`，这样根据每个日期都可以找到当天发布的文章信息。我一开始也这么做，结果发现这个玩意没法被传到要被 return 的`html` string里，于是我选择了在这个 `html` string里再根据 `dataPosts` 来创建 `dataMap`的方法。
 
 ```html
 let dataPosts = ${dataPosts}
 const dataMap = new Map(dataPosts.map((obj) => [obj.date, {title: obj.title, wordCount: obj.wordcount, path: obj.path}]));
 ```
 
-剩下的代码基本上就喝椒老师是一样的了，除了一些颜色设置不同，以及我挺喜欢 Echarts calendar里的月份分割线的，就把它加回来了～
+剩下的代码基本上就和椒老师是一样的了，除了一些颜色设置不同，以及我挺喜欢 Echarts calendar里的月份分割线的，就把它加回来了～
 
 ### 适配暗黑模式
-因为我的博客有暗黑模式的支持，好不容易画好了这个图，尝试换到夜间模式瞬间闪瞎狗眼，然后标题啥的也都看不见了，所以适配暗黑模式还是必要的。Echarts 有很多主题，其中就有 `light` 和 `dark` 两个主题，符合我的需求。一开始我以为我只需要判断现在是白天模式还是暗黑模式，然后选择相应的主题就可以了。但后来意识到这只能保证如果初始状态是白天模式，主题是 `light`，如果初始状态是黑夜模式，主题是`dark`，但是从白天模式切换为黑夜模式并不会变配色🙈 这是因为 Echarts 生成好之后就不会动了，如果想切换模式就换一个配色就得 1）抓到模式切换的event 2）把之前生成的 Echarts 扔掉 3）根据当前模式再生成一个 Echarts。
+我的博客有暗黑模式的支持，好不容易画好了这个图，尝试换到夜间模式却瞬间闪瞎狗眼，然后标题啥的也都看不见了，所以适配暗黑模式还是必要的。Echarts 有很多主题，其中就有 `light` 和 `dark` 两个主题，基本符合我的需求。一开始我以为我只需要判断现在是白天模式还是暗黑模式，然后选择相应的主题就可以了。但后来意识到这只能保证如果初始状态是白天模式，主题是 `light`，如果初始状态是黑夜模式，主题是`dark`，但是从白天模式切换为黑夜模式并不会变配色🙈 这是因为 Echarts 生成好之后就不会动了，如果想切换模式就换一个配色就得 1）抓到模式切换的event 2）把之前生成的 Echarts 扔掉 3）根据当前模式再生成一个 Echarts。
 
 抓到模式切换的 event 我用的是如果检测`click`了，我就来判断当前是暗黑模式还是白天模式，然后扔掉当前的 Echarts，根据对应的模式再生成一遍。代码如下：
 
@@ -190,15 +190,15 @@ document.body.addEventListener('click', function(e) {
                   const link = window.location.origin + "/" + post.path;
                   window.open(link, '_blank').focus();
             });
-} else {
-    postsChart.dispose();
-    postsChart = echarts.init(document.getElementById('posts-chart'), 'light');
-    postsChart.setOption(postsOption);
-    postsChart.on('click', function(params) {
-      const post = dataMap.get(params.data[0]);
-      const link = window.location.origin + "/" + post.path;
-      window.open(link, '_blank').focus();
-});
+        } else {
+            postsChart.dispose();
+            postsChart = echarts.init(document.getElementById('posts-chart'), 'light');
+            postsChart.setOption(postsOption);
+            postsChart.on('click', function(params) {
+              const post = dataMap.get(params.data[0]);
+              const link = window.location.origin + "/" + post.path;
+              window.open(link, '_blank').focus();
+            });
 }
 ```
 其实理论上还可以更优化的，比如 filter click 的类型，但是我有点懒就没搞了🙈
