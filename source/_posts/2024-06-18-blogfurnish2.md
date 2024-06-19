@@ -93,7 +93,7 @@ banner_nav:
 一开始在椒老师这篇博客的评论区发现了有人使用 Hexo 制作热力图，于是就跑过去学习。TA 是用 d3 做的，鼓捣了半天我突然意识到这不是我想要的东西，因为 TA 只是画了从今天倒数 45 x 8 个格子，并没有附带日历的功能。而且生成的热力图不知道为什么大小并不 responsive，于是我又回到了 echarts 的怀抱😂
 
 ## 基本原理
-Echarts 里面有一个绘制日历的功能，比如在官方案例中有一个展示每日部属的[例子](https://echarts.apache.org/examples/en/editor.html?c=calendar-heatmap)，效果如下图
+Echarts 里面有一个绘制日历的功能，比如在官方案例中有一个展示每日步数的[例子](https://echarts.apache.org/examples/en/editor.html?c=calendar-heatmap)，效果如下图
 
 <figure>
 <img src="dailystep.png" width="70%"/>
