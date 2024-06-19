@@ -1,6 +1,7 @@
 ---
 title: 这份「智慧」我无福消受：拔智齿小记
 tags: health
+og_img: 2024/06/19/2024-06-19-wisdomteeth/thumbnail.png
 categories: 生活
 ---
 
