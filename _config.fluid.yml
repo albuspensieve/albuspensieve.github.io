@@ -1047,6 +1047,12 @@ links:
       link: "https://blog.asyncx.top/",
       avatar: "https://blog.asyncx.top/favicon.svg"
     }
+    - {
+      title: "非池中物",
+      intro: "「祈求風和雨 / 吹我到理想的遠處 / 故土沒法跟隨我意願」",
+      link: "https://www.chicheng.run",
+      avatar: "https://www.chicheng.run/img/logo.png"
+    }
 
 
   # 当成员头像加载失败时，替换为指定图片
