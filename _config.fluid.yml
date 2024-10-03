@@ -1053,7 +1053,12 @@ links:
       link: "https://www.chicheng.run",
       avatar: "https://www.chicheng.run/img/logo.png"
     }
-
+    - {
+      title: "两人森林|猫猫文学",
+      intro: "写,是安静的发泄。",
+      link: "https://palebluemist.com/",
+      avatar: "https://palebluemist.com/wp-content/uploads/2024/09/logo.png"
+    }
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
