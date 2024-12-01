@@ -1059,6 +1059,12 @@ links:
       link: "https://palebluemist.com/",
       avatar: "https://palebluemist.com/wp-content/uploads/2024/09/logo.png"
     }
+    - {
+      title: "Another dayu",
+      intro: "Seize the day, gather ye rosebuds while ye may.",
+      link: "https://anotherdayu.com/",
+      avatar: "https://secure.gravatar.com/avatar/6dd2dc3d87fd03f5fad7e31fe752fd43?s=280&d=mm&r=g"
+    }
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
