@@ -1065,6 +1065,12 @@ links:
       link: "https://anotherdayu.com/",
       avatar: "https://secure.gravatar.com/avatar/6dd2dc3d87fd03f5fad7e31fe752fd43?s=280&d=mm&r=g"
     }
+    - {
+      title: "alle zeit der welt",
+      intro: "世界上所有的时间",
+      link: "https://allezeitderwelt.github.io",
+      avatar: "https://uploads.disquscdn.com/images/a398d61f6efd60a3f2531c1ec0dc5e3db893ab6c7e1befe2a9ed569f564dfcb5.png"
+    }
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image

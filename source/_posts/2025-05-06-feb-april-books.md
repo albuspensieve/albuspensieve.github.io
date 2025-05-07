@@ -17,7 +17,7 @@ categories: 读书笔记
 
 打开之前我这个充满偏见的脑子里以为是可能是大都会的策展人，或者是特别喜欢去大都会的艺术家之类的人写的关于大都会的书，我的期待是可以认识更多的艺术品。第一章就让我非常惊喜，原来作者是大都会的保安！这真真是一个我完全没有想到可以书写大都会的视角！一下兴趣就更浓了～
 
-这本书也的确没有让我失望。作者其实本来也算是一个「精英人士」，曾在 New Yorker 做活动策划（？）。他有一个比他年长两岁的大哥，也住在纽约，但是突然得了癌症，不久就去世了。陪哥哥治病，再到哥哥的去世给他带来了很大的创伤，他不能再继续自己其实没有那么喜欢的工作了，从小就喜欢博物馆的他于是辞了职，去大都会做了保安。保安工作的日常挺「单调」的，每天他们会被分配到一个岗，然后就在那里站上一天，但是这对于在哀悼自己哥哥去世的作者来说非常适合。他可以整天看自己喜欢的画，在画作中获得一些心灵的安慰。在这份工作中，“进步”，“推动项目”等词都不再被需要，只需要静静的站着。有的游客会问他无不无聊，他说：
+这本书也的确没有让我失望。作者其实本来也算是一个「精英人士」，曾在 New Yorker 做活动策划（？）。他有一个比他年长两岁的大哥，也住在纽约，但是突然得了癌症，不久就去世了。陪哥哥治病，再到哥哥的去世给他带来了很大的创伤，他不能再继续自己其实没有那么喜欢的工作了，从小就喜欢博物馆的他于是辞了职，去大都会做了保安。保安工作的日常挺「单调」的，每天他们会被分配到一个岗，然后就在那里站上一天，但是这对于在哀悼自己哥哥去世的作者来说非常适合。他可以整天看自己喜欢的画，在画作中获得一些心灵的安慰。在这份工作中，「进步」，「推动项目」等词都不再被需要，只需要静静的站着。有的游客会问他无不无聊，他说：
 
 > I don't get to tell her that I hardly remember how to be bored. Perhaps I have Stockholm syndrome, but I feel that I've surrendered to the turtleish movement of a watchman's time. I can't spend the time. I can't fill it, or kill it, or fritter it into smaller bits. What might be excruciating if suffered for an hour or two is oddly easy to bear in large doses. Mostly, I don't have my eye on the finish line. I've adjusted to a life that feels deeply old-fashioned, aristocratic even, where hours are idled away with princely detachment for a modest hourly wage.
 > 
@@ -228,4 +228,5 @@ categories: 读书笔记
 
 为了准备播客看的～作者是大都会博物馆的前 chief security officer，做过一些关于艺术品盗窃的研究。前半部分还不错，跟艺术品盗窃关系比较密切，比如各种类型的盗窃呀，一些案件故事啊，还有窃贼画像之类的，后半部分更像是自己工作生涯回忆录，比如什么怎么为黛安娜王妃，各国政府政要提供安保啊，还有怎么提高了MET整天安保水平之类的，有点夸耀成分，越来越离题………
 
-
+---
+啊，把存货整理完的心情真好呀～回头看这几个月虽然非常繁忙居然还看了蛮多书，有点小骄傲呢～大家最近有看什么喜欢的书，欢迎在下方留言分享！
