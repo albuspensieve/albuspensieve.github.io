@@ -702,7 +702,7 @@ post:
     # 指定的插件，需要同时设置对应插件的必要参数
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus | discuss
-    type: disqus
+    type: twikoo
 
 
 #---------------------------
@@ -825,9 +825,10 @@ remark42:
 # Based on Tencent CloudBase
 # See: https://twikoo.js.org
 twikoo:
-  envId:
-  region: ap-shanghai
-  path: window.location.pathname
+  envId: https://pensievetwikoo.netlify.app/.netlify/functions/twikoo
+  lang: zh-CN
+#  region: ap-shanghai
+#  path: window.location.pathname
 
 # Cusdis
 # 基于第三方服务或自托管服务
@@ -1089,7 +1090,8 @@ links:
     # 指定的插件，需要同时设置对应插件的必要参数
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus | discuss
-    type: disqus
+#    type: disqus
+    type: twikoo
 
 
 #---------------------------
@@ -1145,7 +1147,7 @@ static_prefix:
 
   disqusjs: https://lib.baomitu.com/disqusjs/1.3.0/
 
-  twikoo: https://lib.baomitu.com/twikoo/1.6.8/
+  twikoo: https://cdn.jsdelivr.net/npm/twikoo@1.6.44/dist/ #https://lib.baomitu.com/twikoo/1.6.44/
 
   discuss: https://lib.baomitu.com/discuss/1.2.1/
 
