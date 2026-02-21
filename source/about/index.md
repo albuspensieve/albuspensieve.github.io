@@ -30,6 +30,8 @@ date: 2024-03-27 15:30:59
 不会骑自行车
 
 ### 🎙️播客
+[Senredipedia | 维机游走](https://serendipedia.github.io)
+[Butterbeer Bar | 黄油啤酒吧](https://butterbeerbar2025.github.io)
 [女巫茶话会](https://covencoffeehour.github.io)
 
 

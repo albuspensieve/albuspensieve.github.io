@@ -1072,6 +1072,18 @@ links:
       link: "https://allezeitderwelt.github.io",
       avatar: "https://uploads.disquscdn.com/images/a398d61f6efd60a3f2531c1ec0dc5e3db893ab6c7e1befe2a9ed569f564dfcb5.png"
     }
+    - {
+      title: "LLLgoyour",
+      intro: "一直游到海水变蓝",
+      link: "https://lllgoyour.com",
+      avatar: "https://gravatar.com/avatar/c34835a316b69500beab7939bb6f53f9cdceb1b25388d5fe130b408129b20968"
+    }
+    - {
+      title: "Joey's Planeta",
+      intro: "随性游走.",
+      link: "https://joeyplaneta.com",
+      avatar: "https://joeyplaneta.com/img/appleavatar.png"
+    }
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
