@@ -51,7 +51,7 @@ A Bigger Splash by David Hockney © Estate of David Hockney
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/33vA3Gw5zWq3GitANuGUo6?utm_source=generator&si=8345d0845789480a" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Yann Tiersen - A Midsummer Evening
-乐曲的前半部分感觉一场夏日的雷暴即将袭来，然后拨云见日，一幅夏日落日的画卷在眼前展开，仲夏夜！
+乐曲的前半部分像一场蠢蠢欲动的夏日雷暴，但突然拨云见日，一幅夏日落日的画卷在眼前展开，仲夏夜！
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7d2ILXxjhW8P2EqjDAh2ct?utm_source=generator&si=6bd1b7e2c9d7447b" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
